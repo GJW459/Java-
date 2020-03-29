@@ -135,11 +135,11 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="72" />
-    <option name="y" value="39" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-379" />
+    <option name="y" value="170" />
     <option name="width" value="1346" />
-    <option name="height" value="735" />
+    <option name="height" value="540" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -238,10 +238,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="MyBatisLogPluginparameters" value="Parameters:" />
+    <property name="MyBatisLogPluginpreparing" value="Preparing:" />
+    <property name="MyBatisLogPluginrunning" value="true" />
     <property name="SearchEverywhereHistoryKey" value="Reen&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock&#10;Thr&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Thread.java&#10;T&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Thread.java&#10;Thread&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Thread.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585475798599" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585476083252" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
