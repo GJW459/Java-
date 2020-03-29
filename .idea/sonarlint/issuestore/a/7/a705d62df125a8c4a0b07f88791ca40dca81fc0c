@@ -1,0 +1,19 @@
+
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(Î’ÛÚ8É®Ç¬’.
+E
+java:S1604)"(Make this anonymous inner class a lambda(ÉãÃ®8­ÖÆ¬’.
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(Î’ÛÚ8ñ¦Å¬’.
+T	java:S1068"9Replace this use of System.out or System.err by a logger.(œ™À8É®Ç¬’.
+e
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»ãßºøÿÿÿÿ8ôèÎ¬’.
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ôèÎ¬’.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ôèÎ¬’.
+T	java:S106$"9Replace this use of System.out or System.err by a logger.(œ™À8ñ¦Å¬’.
+E
+java:S11482"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8É¤Ð¬’.
+c
+java:S21421"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8É¤Ð¬’.
+e
+java:S22760"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»ãßºøÿÿÿÿ8É¤Ð¬’.
