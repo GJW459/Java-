@@ -64,8 +64,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JavaThread/src/com/gjw/javathread/LockTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="59" column="24" lean-forward="true" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
+            <state relative-caret-position="238">
+              <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
             </state>
           </provider>
         </entry>
@@ -244,7 +244,7 @@
     <property name="SearchEverywhereHistoryKey" value="Reen&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock&#10;Thr&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Thread.java&#10;T&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Thread.java&#10;Thread&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Thread.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585476083252" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585476210988" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -357,36 +357,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585451785564</updated>
-      <workItem from="1585451789380" duration="15364000" />
+      <workItem from="1585451789380" duration="15654000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15364000" />
+    <option name="totallyTimeSpent" value="15654000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="72" y="39" width="1346" height="735" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Capture Tool" />
       <window_info id="设计器" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49906543" visible="true" weight="0.25660965" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49906543" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" sideWeight="0.5009346" side_tool="true" weight="0.24962178" />
       <window_info anchor="bottom" id="Messages" weight="0.32913387" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32935154" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3023622" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Statistic" />
       <window_info anchor="bottom" id="SonarLint" />
       <window_info anchor="bottom" id="Tail" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="MyBatis Log" />
+      <window_info anchor="bottom" id="MyBatis Log" weight="0.32935154" />
       <window_info anchor="bottom" id="调试" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.43622047" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43515357" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -538,8 +538,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JavaThread/src/com/gjw/javathread/LockTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="59" column="24" lean-forward="true" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
+        <state relative-caret-position="238">
+          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
         </state>
       </provider>
     </entry>
