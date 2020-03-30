@@ -1,7 +1,7 @@
 
-c
-java:S2142%"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÈŸ­’.
-T	java:S106)"9Replace this use of System.out or System.err by a logger.(×Øîc8ÈŸ­’.
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(É¯ß8À¶ğ±’.
 E
-java:S1148&"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÈŸ­’.
-i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(É¯ß8«Á•­’.
+java:S1148&"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8À¶ğ±’.
+c
+java:S2142%"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8À¶ğ±’.
+T	java:S106)"9Replace this use of System.out or System.err by a logger.(×Øîc8À¶ğ±’.

@@ -17,3 +17,13 @@ _
 /JavaThread/src/com/gjw/javathread/LockTest.java,7\4\74a0a2490284745d4fd6ef82dd5d06549ea48ed3
 f
 6JavaThread/src/com/gjw/javathread/ThreadSingleton.java,2\a\2aac9f00b17242ea7fe3d54b0065bbf7631bfdd9
+@
+java多线程.md,0\0\00637785c5c997fba5d68f138451dcc635df38b3
+h
+8JavaThread/src/com/gjw/javathread/ThreadCommunicate.java,1\2\12d875ed354e706802375ba3d81959b339a744d7
+b
+2JavaThread/src/com/gjw/javathread/ProductTest.java,c\e\ce9a2df9b032426ee66052722ea9d829a7c55b2d
+c
+3JavaThread/src/com/gjw/javathread/CallableTest.java,4\9\49217aa6dac88c9d8cd30e357243ccd486ea1dac
+a
+1JavaThread/src/com/gjw/javathread/ThreadPool.java,7\0\7052b42922062efd1787831100e1949e23009d35

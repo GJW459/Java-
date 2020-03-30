@@ -1,0 +1,13 @@
+
+_
+java:S2094"BRemove this empty class, write its code or make it an "interface".(»É­¦8ÍÜŒÖ’.
+d
+java:S2094""BRemove this empty class, write its code or make it an "interface".(€ëùÜûÿÿÿÿ8îÌ“Ö’.
+K
+java:S1068")Remove this unused "clerk" private field.(¸âÓ˜üÿÿÿÿ8îÌ“Ö’.
+K
+java:S1068")Remove this unused "clerk" private field.(¸âÓ˜üÿÿÿÿ8ß·–Ö’.
+\
+java:S2134"@Don't extend "Thread", since the "run" method is not overridden.(µÜ¢D8ß·–Ö’.
+]
+java:S2134"@Don't extend "Thread", since the "run" method is not overridden.(±«§ë8îÌ“Ö’.
