@@ -1,0 +1,14 @@
+
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(±¤ª¹8¾®ßì•.
+v
+java:S30127"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¸Úü¨8ªÄğì•.
+U	java:S106]"9Replace this use of System.out or System.err by a logger.(±¤ª¹8àìí•.
+Z	java:S106o"9Replace this use of System.out or System.err by a logger.(íœ§±ûÿÿÿÿ8È¬¸í•.
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(İ˜½…ùÿÿÿÿ8õØì•.
+Z	java:S106p"9Replace this use of System.out or System.err by a logger.(Â˜›Ïÿÿÿÿÿ8¹®¼í•.
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(ñß¢´8øœıì•.
+h
+java:S1192!"FDefine a constant instead of duplicating this literal "apple" 4 times.(¤Ğøğşÿÿÿÿ8ü°Şì•.
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(ñß¢´8ÜÙ€í•.
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(«òˆì8õ„õì•.
+Z	java:S106X"9Replace this use of System.out or System.err by a logger.(‡¼¯õùÿÿÿÿ8ï¾‰í•.

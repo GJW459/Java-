@@ -1,0 +1,20 @@
+
+Z	java:S106a"9Replace this use of System.out or System.err by a logger.(‡‰âçıÿÿÿÿ8İ‹ÓÎ•.
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(áç–‰8ßÎ•.
+V	java:S106…"9Replace this use of System.out or System.err by a logger.(«Ä¯ô8÷‹—Ï•.
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(Î„˜›úÿÿÿÿ8çŠÎ•.
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(ùœÅÛıÿÿÿÿ8ßÎ•.
+C
+java:S2129N"!Remove this "Integer" constructor(šïâ¡ıÿÿÿÿ8ÂÕŸÎ•.
+U	java:S106S"9Replace this use of System.out or System.err by a logger.(—Ş“8‚›«Î•.
+Z	java:S106U"9Replace this use of System.out or System.err by a logger.(°¢àÕıÿÿÿÿ8ä³«Î•.
+Z	java:S106|"9Replace this use of System.out or System.err by a logger.(—áÌßÿÿÿÿÿ8±Å„Ï•.
+V	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(å‡×8÷‹—Ï•.
+g	java:S112Z"FDefine and throw a dedicated exception instead of using a generic one.( ê¾ºÿÿÿÿÿ8–öİÎ•.
+Z	java:S106t"9Replace this use of System.out or System.err by a logger.(‡¼¯õùÿÿÿÿ8½ŸşÎ•.
+b
+java:S2133B"@Remove this object instantiation and use "Person.class" instead.(½Ñã„üÿÿÿÿ8ˆ’‘Î•.
+U	java:S106T"9Replace this use of System.out or System.err by a logger.(Ğº§µ8ä³«Î•.
+T	java:S106r"9Replace this use of System.out or System.err by a logger.(×ŒßP8ğİûÎ•.
+[	java:S106„"9Replace this use of System.out or System.err by a logger.(‡¼¯õùÿÿÿÿ8÷‹—Ï•.
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(Õ²óø8ßÎ•.

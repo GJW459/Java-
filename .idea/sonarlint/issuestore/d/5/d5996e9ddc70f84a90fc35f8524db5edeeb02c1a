@@ -1,0 +1,21 @@
+
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(±¤ª¹8—°ÑĞ•.
+Q
+java:S1481Y"/Remove this unused "stringPair" local variable.(•Ì«òøÿÿÿÿ8ìÏ§Ñ•.
+`
+java:S1854Y">Remove this useless assignment to local variable "stringPair".(•Ì«òøÿÿÿÿ8ìÏ§Ñ•.
+P
+java:S1481 ".Remove this unused "floatList" local variable.(¢ÙÍûşÿÿÿÿ8æÆÂĞ•.
+_
+java:S1854 "=Remove this useless assignment to local variable "floatList".(¢ÙÍûşÿÿÿÿ8æÆÂĞ•.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(­ê§òúÿÿÿÿ8æÆÂĞ•.
+N
+java:S1481",Remove this unused "strList" local variable.(­ê§òúÿÿÿÿ8æÆÂĞ•.
+T	java:S1068"9Replace this use of System.out or System.err by a logger.(€·ó78Œ¹úĞ•.
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(ªãéËùÿÿÿÿ8—°ÑĞ•.
+{
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(¢ÙÍûşÿÿÿÿ8æÆÂĞ•.
+g	java:S112V"FDefine and throw a dedicated exception instead of using a generic one.( ê¾ºÿÿÿÿÿ8ìÏ§Ñ•.
+]
+java:S1854";Remove this useless assignment to local variable "strList".(­ê§òúÿÿÿÿ8æÆÂĞ•.

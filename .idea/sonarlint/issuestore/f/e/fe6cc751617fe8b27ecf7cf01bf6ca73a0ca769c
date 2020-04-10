@@ -1,0 +1,41 @@
+
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(ÿàÓ¢ÿÿÿÿÿ8µ³±ó’.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(­™Ÿü8’‘”ó’.
+V
+java:S4973O"9Use the "equals" method if value comparison was intended.(’Ëú‹8ÙŒô’.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ëë¢Ø8šŞ™ó’.
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(¬Í«ùÿÿÿÿ8à¶ó’.
+U	java:S106r"9Replace this use of System.out or System.err by a logger.(±¤ª¹8õ‹ºô’.
+K
+java:S1481N")Remove this unused "str3" local variable.( Šëùÿÿÿÿ8Óæô’.
+U	java:S106L"9Replace this use of System.out or System.err by a logger.(±¤ª¹8˜¾‰ô’.
+E
+java:S1148t"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ñ­®ô’.
+Z	java:S106["9Replace this use of System.out or System.err by a logger.(‰Ù¸Ğşÿÿÿÿ8„—ô’.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(àÄÄ«ûÿÿÿÿ8’‘”ó’.
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(˜êÕš8é©¦ó’.
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(ŸæÜ–üÿÿÿÿ8£´Èó’.
+[
+java:S4973P"9Use the "equals" method if value comparison was intended.(ó­«¿øÿÿÿÿ8ÙŒô’.
+Z	java:S106P"9Replace this use of System.out or System.err by a logger.(ó­«¿øÿÿÿÿ8ÙŒô’.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ıÖ¨µ8’‘”ó’.
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(…ÙÑåûÿÿÿÿ8¤Òó’.
+T	java:S1068"9Replace this use of System.out or System.err by a logger.(‘Ü©k8¤Òó’.
+B
+java:S21291" Remove this "String" constructor(ªº‚’ıÿÿÿÿ8åÿ°ó’.
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(Î’ÛÚ8‰…˜ó’.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÃÍ­™úÿÿÿÿ8’‘”ó’.
+Z
+java:S1854N"8Remove this useless assignment to local variable "str3".( Šëùÿÿÿÿ8Óæô’.
+Z	java:S106j"9Replace this use of System.out or System.err by a logger.(“ÄËßşÿÿÿÿ8Ñ­®ô’.
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(ŸÖ³úùÿÿÿÿ8é©¦ó’.
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(ŸæÜ–üÿÿÿÿ8Æ—Êó’.
+U	java:S106x"9Replace this use of System.out or System.err by a logger.(±¤ª¹8¼´¸ô’.
+B
+java:S2129M" Remove this "String" constructor(ôóØ¹ùÿÿÿÿ8‡î‹ô’.
+Z	java:S106_"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8‡Ş™ô’.
+U	java:S106m"9Replace this use of System.out or System.err by a logger.(¶¯Ä8Ñ­®ô’.
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(©ƒÌ®øÿÿÿÿ8Œõªó’.
+U	java:S106>"9Replace this use of System.out or System.err by a logger.(íù×¤8æ±ïó’.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(©ƒÌ®øÿÿÿÿ8à¶ó’.
+U	java:S106O"9Replace this use of System.out or System.err by a logger.(’Ëú‹8‡î‹ô’.
