@@ -1,0 +1,10 @@
+
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÉüÃÍ8€©Ë¡–.
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(´™£ö8µüì¡–.
+X	java:S125&"<This block of commented-out lines of code should be removed.(şóÁá8€¦Ù¡–.
+X	java:S125""<This block of commented-out lines of code should be removed.(á«ö8€¦Ù¡–.
+X	java:S1253"<This block of commented-out lines of code should be removed.(şóÁá8¾şå¡–.
+W	java:S125+"<This block of commented-out lines of code should be removed.(ïÀ›D8€¦Ù¡–.
+\
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8’ßÈ¡–.
+]	java:S1251"<This block of commented-out lines of code should be removed.(„ÉÂªşÿÿÿÿ8¾şå¡–.

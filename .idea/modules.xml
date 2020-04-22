@@ -7,8 +7,10 @@
       <module fileurl="file://$PROJECT_DIR$/JavaGeneric/JavaGeneric.iml" filepath="$PROJECT_DIR$/JavaGeneric/JavaGeneric.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaHighLevel.iml" filepath="$PROJECT_DIR$/JavaHighLevel.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaIO/JavaIO.iml" filepath="$PROJECT_DIR$/JavaIO/JavaIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaInnerClass/JavaInnerClass.iml" filepath="$PROJECT_DIR$/JavaInnerClass/JavaInnerClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaKeyClass/JavaKeyClass.iml" filepath="$PROJECT_DIR$/JavaKeyClass/JavaKeyClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaReflect/JavaReflect.iml" filepath="$PROJECT_DIR$/JavaReflect/JavaReflect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSocket/JavaSocket.iml" filepath="$PROJECT_DIR$/JavaSocket/JavaSocket.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaThread/JavaThread.iml" filepath="$PROJECT_DIR$/JavaThread/JavaThread.iml" />
     </modules>
   </component>
