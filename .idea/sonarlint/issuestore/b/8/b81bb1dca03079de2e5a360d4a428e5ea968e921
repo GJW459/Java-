@@ -1,0 +1,10 @@
+
+I
+java:S1481",Remove this unused "forList" local variable.(ÓÆğÂ8ËßÚ›.
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÑœïC
+X
+java:S1854";Remove this useless assignment to local variable "forList".(ÓÆğÂ8ËßÚ›.
+^
+java:S1854"<Remove this useless assignment to local variable "forList1".(†‰ÿ©ÿÿÿÿÿ8›£–Ú›.
+O
+java:S1481"-Remove this unused "forList1" local variable.(†‰ÿ©ÿÿÿÿÿ8›£–Ú›.

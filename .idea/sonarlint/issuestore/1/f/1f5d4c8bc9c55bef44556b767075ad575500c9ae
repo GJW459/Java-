@@ -1,0 +1,6 @@
+
+j
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(÷¦µöùÿÿÿÿ8ïÇÚ±œ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ÖÒì™üÿÿÿÿ8©Û±œ.
+C
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ûïØ±œ.

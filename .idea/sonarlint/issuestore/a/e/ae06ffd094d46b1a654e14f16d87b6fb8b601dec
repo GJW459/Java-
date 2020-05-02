@@ -1,0 +1,15 @@
+
+C
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8©âš²œ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(™Û¶8û›ª²œ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Œÿ¦‰8“€«²œ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ğª’ğ8•Ö®²œ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ8ºû³²œ.
+R	java:S106"9Replace this use of System.out or System.err by a logger.(Œ¬È8•Ö®²œ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ùµÚóÿÿÿÿÿ8Úú¬²œ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ò•Æ†ıÿÿÿÿ8”Ù¦²œ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ÅÏøÿÿÿÿ8ÿ”¯²œ.
+V
+java:S1128";Remove this unused import 'java.net.MalformedURLException'.(ªËŞˆ8¾Êœ²œ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(†·§ÿÿÿÿÿ8ªÿ¯²œ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(™Ú›Á8Úú¬²œ.

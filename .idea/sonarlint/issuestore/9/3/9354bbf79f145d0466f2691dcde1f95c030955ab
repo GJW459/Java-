@@ -1,0 +1,8 @@
+
+X	java:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8¨Ø¯œ.
+l
+java:S2095"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(ì¹ëÿÿÿÿÿ8ôßÀ¯œ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(İıŒĞ8û“È¯œ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“Åã€8ĞœÊ¯œ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ä–£¬8¯Ğ¯œ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(Æ÷üÿøÿÿÿÿ8ÉˆÒ¯œ.

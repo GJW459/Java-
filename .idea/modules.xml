@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java8ClassDate/Java8ClassDate.iml" filepath="$PROJECT_DIR$/Java8ClassDate/Java8ClassDate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java8NewFeature/Java8NewFeature.iml" filepath="$PROJECT_DIR$/Java8NewFeature/Java8NewFeature.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaAnnotation/JavaAnnotation.iml" filepath="$PROJECT_DIR$/JavaAnnotation/JavaAnnotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaClassComparable/JavaClassComparable.iml" filepath="$PROJECT_DIR$/JavaClassComparable/JavaClassComparable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaClassString/JavaClassString.iml" filepath="$PROJECT_DIR$/JavaClassString/JavaClassString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaClassSystem/JavaClassSystem.iml" filepath="$PROJECT_DIR$/JavaClassSystem/JavaClassSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaCollection/JavaCollection.iml" filepath="$PROJECT_DIR$/JavaCollection/JavaCollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEnum/JavaEnum.iml" filepath="$PROJECT_DIR$/JavaEnum/JavaEnum.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaGeneric/JavaGeneric.iml" filepath="$PROJECT_DIR$/JavaGeneric/JavaGeneric.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaHighLevel.iml" filepath="$PROJECT_DIR$/JavaHighLevel.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaIO/JavaIO.iml" filepath="$PROJECT_DIR$/JavaIO/JavaIO.iml" />

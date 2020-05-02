@@ -2,20 +2,80 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fff359dd-d02b-4301-9ce5-fad54e63d5de" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/Demo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/MyDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/MyDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/Outer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/Outer2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/Outer3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/Outer4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/Outer5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/OuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java8ClassDate/src/com/gjw/DateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/ConstructorRefTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/EmployeeUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/FunctionInterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/Java8Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/LambdaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/MethodReferencesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/StreamAPITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAnnotation/src/com/gjw/annotation/AnnotationTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAnnotation/src/com/gjw/annotation/MyAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAnnotation/src/com/gjw/annotation/MyAnnotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaClassComparable/src/com/gjw/ComparatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaClassComparable/src/com/gjw/Goods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaClassString/src/com/gjw/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaClassSystem/src/com/gjw/systemtest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCollection/Collection.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCollection/src/com/gjw/CollectionStudy/ArrayListStudy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCollection/src/com/gjw/CollectionStudy/HashMapTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCollection/src/com/gjw/CollectionStudy/IteratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCollection/src/com/gjw/CollectionStudy/LinkListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCollection/src/com/gjw/CollectionStudy/ListIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCollection/src/com/gjw/CollectionStudy/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCollection/src/com/gjw/CollectionStudy/StackCollision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCollection/src/com/gjw/CollectionStudy/StackPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCollection/src/com/gjw/CollectionStudy/StackTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCollection/src/com/gjw/CollectionStudy/TheeSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCollection/src/com/gjw/CollectionStudy/TreeSetTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCollection/src/com/gjw/collection/AddingGroups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCollection/src/com/gjw/collectionsourcecodestudy/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaEnum/src/com/gjw/Sex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaEnum/src/com/gjw/enumtest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaEnum/src/com/gjw/info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaGeneric/src/com/gjw/Dao/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaGeneric/src/com/gjw/Dao/CustomerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaGeneric/src/com/gjw/Dao/DaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaGeneric/src/com/gjw/Dao/MyDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaGeneric/src/com/gjw/Dao/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaGeneric/src/com/gjw/Dao/StudentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaGeneric/src/com/gjw/generic/GenericTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaGeneric/src/com/gjw/generic/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaGeneric/src/com/gjw/generic/SubOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaGeneric/src/com/gjw/generic/SubOrder2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaGeneric/src/com/gjw/java2/GenericTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaGeneric/src/com/gjw/java2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaGeneric/src/com/gjw/java2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaIO/src/com/gjw/io2/FileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaIO/src/com/gjw/io2/IOStreamStudy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaIO/src/com/gjw/io2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaIO/集合gif.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaReflect/src/com/gjw/reflect2/Creature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaReflect/src/com/gjw/reflect2/FieldTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaReflect/src/com/gjw/reflect2/MethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaReflect/src/com/gjw/reflect2/MyAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaReflect/src/com/gjw/reflect2/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaReflect/src/com/gjw/reflect2/OtherTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaReflect/src/com/gjw/reflect2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaReflect/src/com/gjw/reflect2/ProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaReflect/src/com/gjw/reflect2/ReflectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaReflect/src/com/gjw/reflect2/StaticProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSocket/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSocket/src/main/java/com/gjw/socket/AIOTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSocket/src/main/java/com/gjw/socket/HttpClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSocket/src/main/java/com/gjw/socket/MailTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSocket/src/main/java/com/gjw/socket/NIOTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaAnnotation/src/com/gjw/annotation/AnnotationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaAnnotation/src/com/gjw/annotation/AnnotationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCollection/src/com/gjw/collection/StackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCollection/src/com/gjw/collection/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCollection/com/gjw/collection/StackTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaIO/com/gjw/io/SerializationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaIO/com/gjw/io/SerializationTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/JavaKeyClass/target/" />
+    <ignored path="$PROJECT_DIR$/JavaSocket/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,68 +86,77 @@
     <session id="254750985">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="24" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.31" value="1" />
-          <entry key="project.open.time.38" value="1" />
-          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.38" value="2" />
+          <entry key="project.open.time.4" value="5" />
           <entry key="project.open.time.42" value="2" />
           <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.50" value="2" />
           <entry key="project.open.time.59" value="1" />
+          <entry key="project.open.time.60" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.opened" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="HttpClient" value="1" />
           <entry key="InputStream" value="1" />
           <entry key="Lock" value="1" />
           <entry key="Queue" value="1" />
           <entry key="Stack" value="1" />
-          <entry key="class" value="4" />
-          <entry key="gif" value="1" />
-          <entry key="java" value="132" />
-          <entry key="md" value="1" />
-          <entry key="png" value="1" />
-          <entry key="properties" value="4" />
-          <entry key="txt" value="2" />
-          <entry key="xml" value="1" />
+          <entry key="class" value="7" />
+          <entry key="dat" value="1" />
+          <entry key="gif" value="5" />
+          <entry key="java" value="294" />
+          <entry key="md" value="2" />
+          <entry key="png" value="3" />
+          <entry key="properties" value="5" />
+          <entry key="txt" value="8" />
+          <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="4" />
-          <entry key="Image" value="2" />
-          <entry key="JAVA" value="132" />
-          <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Properties" value="4" />
-          <entry key="UML" value="4" />
-          <entry key="XML" value="1" />
+          <entry key="CLASS" value="7" />
+          <entry key="Image" value="8" />
+          <entry key="JAVA" value="294" />
+          <entry key="Markdown" value="2" />
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="Properties" value="5" />
+          <entry key="UML" value="5" />
+          <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="5" />
-          <entry key="java" value="16481" />
-          <entry key="md" value="5" />
+          <entry key="java" value="45661" />
+          <entry key="md" value="305" />
           <entry key="properties" value="41" />
-          <entry key="txt" value="17" />
-          <entry key="xml" value="9" />
+          <entry key="txt" value="35" />
+          <entry key="xml" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="16481" />
-          <entry key="Markdown" value="5" />
-          <entry key="PLAIN_TEXT" value="22" />
+          <entry key="JAVA" value="45661" />
+          <entry key="Markdown" value="305" />
+          <entry key="PLAIN_TEXT" value="40" />
           <entry key="Properties" value="41" />
-          <entry key="XML" value="9" />
+          <entry key="XML" value="19" />
         </counts>
       </usages-collector>
     </session>
@@ -97,69 +166,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/Outer4.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/StreamAPITest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/Outer5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/Demo1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            <state relative-caret-position="207">
+              <caret line="111" column="53" selection-start-line="111" selection-start-column="53" selection-end-line="111" selection-end-column="53" />
               <folding>
-                <element signature="e#71#72#0" expanded="true" />
-                <element signature="e#99#100#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/Demo2.java">
+        <entry file="file://$PROJECT_DIR$/../JavaSourceLearn/src/com/gjw/jdk8source/java/util/function/Predicate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/MyDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" selection-start-line="2" selection-end-line="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/Demo3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/MyDemo2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="112">
+              <caret line="48" column="22" lean-forward="true" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -169,6 +192,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
+        <option value="Interface" />
         <option value="AnnotationType" />
         <option value="Class" />
       </list>
@@ -191,57 +216,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JavaThread/src/com/gjw/javathread/ThreadCommunicate.java" />
-        <option value="$PROJECT_DIR$/JavaThread/src/com/gjw/javathread/ProductTest.java" />
-        <option value="$PROJECT_DIR$/JavaThread/src/com/gjw/javathread/CallableTest.java" />
-        <option value="$PROJECT_DIR$/JavaThread/src/com/gjw/javathread/ThreadPool.java" />
-        <option value="$PROJECT_DIR$/JavaKeyClass/src/com/gjw/string/StringTest.java" />
-        <option value="$PROJECT_DIR$/JavaKeyClass/pom.xml" />
-        <option value="$PROJECT_DIR$/JavaKeyClass/src/main/java/com/gjw/string/StringTest.java" />
-        <option value="$PROJECT_DIR$/JavaKeyClass/src/main/java/com/gjw/string/StringMethodTest.java" />
-        <option value="$PROJECT_DIR$/JavaKeyClass/src/main/java/com/gjw/string/StringBufferBuilderTest.java" />
-        <option value="$PROJECT_DIR$/JavaKeyClass/src/main/java/com/gjw/Date/DateTimeTest.java" />
-        <option value="$PROJECT_DIR$/JavaReflect/src/com/gjw/reflect/ClassTest.java" />
-        <option value="$PROJECT_DIR$/JavaReflect/src/com/gjw/reflect/ProxyTest.java" />
-        <option value="$PROJECT_DIR$/JavaAnnotation/src/com/gjw/annotation/Report.java" />
-        <option value="$PROJECT_DIR$/JavaAnnotation/src/com/gjw/annotation/Range.java" />
-        <option value="$PROJECT_DIR$/JavaAnnotation/src/com/gjw/annotation/AnnotationTest.java" />
-        <option value="$PROJECT_DIR$/JavaGeneric/src/com/gjw/generic/Person.java" />
-        <option value="$PROJECT_DIR$/JavaGeneric/src/com/gjw/generic/Pair.java" />
-        <option value="$PROJECT_DIR$/JavaGeneric/src/com/gjw/generic/GenericTest.java" />
-        <option value="$PROJECT_DIR$/JavaCollection/src/com/gjw/collection/ListTest.java" />
-        <option value="$PROJECT_DIR$/JavaCollection/src/com/gjw/collection/MapTest.java" />
-        <option value="$PROJECT_DIR$/JavaCollection/src/com/gjw/collection/EnumMap.java" />
-        <option value="$PROJECT_DIR$/JavaCollection/src/com/gjw/collection/TheeMap.java" />
-        <option value="$PROJECT_DIR$/JavaCollection/src/com/gjw/collection/Person.java" />
-        <option value="$PROJECT_DIR$/JavaCollection/src/com/gjw/collection/TheeMapTest.java" />
-        <option value="$PROJECT_DIR$/JavaCollection/src/my.properties" />
-        <option value="$PROJECT_DIR$/JavaCollection/setting.properties" />
-        <option value="$PROJECT_DIR$/JavaCollection/src/com/gjw/collection/PropertiesTest.java" />
-        <option value="$PROJECT_DIR$/JavaCollection/src/com/gjw/collection/SetTest.java" />
-        <option value="$PROJECT_DIR$/JavaCollection/src/com/gjw/collection/User.java" />
-        <option value="$PROJECT_DIR$/JavaCollection/src/com/gjw/collection/QueueTest.java" />
-        <option value="$PROJECT_DIR$/JavaCollection/src/com/gjw/collection/UserCompratar.java" />
-        <option value="$PROJECT_DIR$/JavaCollection/src/com/gjw/collection/DequeTest.java" />
-        <option value="$PROJECT_DIR$/JavaCollection/src/com/gjw/collection/StackTest.java" />
-        <option value="$PROJECT_DIR$/JavaCollection/src/com/gjw/collection/CollectionsTest.java" />
-        <option value="$PROJECT_DIR$/JavaIO/src/com/gjw/io/FileTest.java" />
-        <option value="$PROJECT_DIR$/JavaIO/readme.txt" />
-        <option value="$PROJECT_DIR$/JavaIO/src/com/gjw/io/InputStreamTest.java" />
-        <option value="$PROJECT_DIR$/JavaIO/src/com/gjw/io/OutPutStreamTest.java" />
-        <option value="$PROJECT_DIR$/JavaIO/src/com/gjw/io/Person.java" />
-        <option value="$PROJECT_DIR$/JavaIO/src/com/gjw/io/SerializationTest.java" />
-        <option value="$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/OuterClass.java" />
-        <option value="$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/Outer2.java" />
-        <option value="$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/Outer3.java" />
-        <option value="$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/Outer.java" />
-        <option value="$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/Outer4.java" />
-        <option value="$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/Outer5.java" />
-        <option value="$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/Demo1.java" />
-        <option value="$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/Demo2.java" />
-        <option value="$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/MyDemo.java" />
-        <option value="$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/Demo3.java" />
-        <option value="$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/MyDemo2.java" />
+        <option value="$PROJECT_DIR$/JavaGeneric/src/com/gjw/generic/SubOrder2.java" />
+        <option value="$PROJECT_DIR$/JavaGeneric/src/com/gjw/generic/GenericTest1.java" />
+        <option value="$PROJECT_DIR$/JavaGeneric/src/com/gjw/generic/Order.java" />
+        <option value="$PROJECT_DIR$/JavaGeneric/src/com/gjw/Dao/Customer.java" />
+        <option value="$PROJECT_DIR$/JavaGeneric/src/com/gjw/Dao/CustomerDao.java" />
+        <option value="$PROJECT_DIR$/JavaGeneric/src/com/gjw/Dao/StudentDao.java" />
+        <option value="$PROJECT_DIR$/JavaGeneric/src/com/gjw/Dao/DaoTest.java" />
+        <option value="$PROJECT_DIR$/JavaGeneric/src/com/gjw/Dao/MyDao.java" />
+        <option value="$PROJECT_DIR$/JavaGeneric/src/com/gjw/java2/Student.java" />
+        <option value="$PROJECT_DIR$/JavaGeneric/src/com/gjw/java2/GenericTest.java" />
+        <option value="$PROJECT_DIR$/JavaIO/src/com/gjw/io2/FileTest.java" />
+        <option value="$PROJECT_DIR$/JavaIO/src/com/gjw/io2/Person.java" />
+        <option value="$PROJECT_DIR$/JavaIO/hello.txt" />
+        <option value="$PROJECT_DIR$/JavaIO/src/com/gjw/io2/IOStreamStudy.java" />
+        <option value="$PROJECT_DIR$/JavaSocket/src/com/gjw/socket/IntetAddressTest.java" />
+        <option value="$PROJECT_DIR$/JavaSocket/src/com/gjw/socket/UDPTest.java" />
+        <option value="$PROJECT_DIR$/JavaSocket/src/com/gjw/socket/UDPRec.java" />
+        <option value="$PROJECT_DIR$/JavaSocket/src/com/gjw/socket/UDPSend.java" />
+        <option value="$PROJECT_DIR$/JavaSocket/src/com/gjw/socket/TCPServer.java" />
+        <option value="$PROJECT_DIR$/JavaSocket/src/com/gjw/socket/TCPClient.java" />
+        <option value="$PROJECT_DIR$/JavaSocket/src/com/gjw/socket/Worker.java" />
+        <option value="$PROJECT_DIR$/JavaSocket/src/com/gjw/socket/TCPServer2.java" />
+        <option value="$PROJECT_DIR$/JavaSocket/src/com/gjw/socket/HTTPTest.java" />
+        <option value="$PROJECT_DIR$/JavaSocket/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaSocket/src/main/java/com/gjw/socket/HttpClientTest.java" />
+        <option value="$PROJECT_DIR$/JavaSocket/src/main/java/com/gjw/socket/NIOTest.java" />
+        <option value="$PROJECT_DIR$/JavaSocket/src/main/java/com/gjw/socket/AIOTest.java" />
+        <option value="$PROJECT_DIR$/JavaSocket/src/main/java/com/gjw/socket/MailTest.java" />
+        <option value="$PROJECT_DIR$/JavaReflect/src/com/gjw/reflect/Creature.java" />
+        <option value="$PROJECT_DIR$/JavaReflect/src/com/gjw/reflect/MyInterface.java" />
+        <option value="$PROJECT_DIR$/JavaReflect/src/com/gjw/reflect/MyAnnotation.java" />
+        <option value="$PROJECT_DIR$/JavaReflect/src/com/gjw/reflect/Person.java" />
+        <option value="$PROJECT_DIR$/JavaReflect/src/com/gjw/reflect/FieldTest.java" />
+        <option value="$PROJECT_DIR$/JavaReflect/src/com/gjw/reflect/MethodTest.java" />
+        <option value="$PROJECT_DIR$/JavaReflect/src/com/gjw/reflect/OtherTest.java" />
+        <option value="$PROJECT_DIR$/JavaReflect/src/com/gjw/reflect2/OtherTest.java" />
+        <option value="$PROJECT_DIR$/JavaReflect/src/com/gjw/reflect2/ReflectionTest.java" />
+        <option value="$PROJECT_DIR$/JavaReflect/src/com/gjw/reflect2/Person.java" />
+        <option value="$PROJECT_DIR$/JavaReflect/src/com/gjw/reflect2/StaticProxyTest.java" />
+        <option value="$PROJECT_DIR$/JavaReflect/src/com/gjw/reflect2/ProxyTest.java" />
+        <option value="$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/Java8Test.java" />
+        <option value="$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/LambdaTest.java" />
+        <option value="$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/MyInterface.java" />
+        <option value="$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/FunctionInterfaceTest.java" />
+        <option value="$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/MethodReferences.java" />
+        <option value="$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/MethodReferencesTest.java" />
+        <option value="$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/ConstructorRefTest.java" />
+        <option value="$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/StreamUtils.java" />
+        <option value="$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/Employee.java" />
+        <option value="$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/EmployeeUtils.java" />
+        <option value="$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/StreamAPITest.java" />
       </list>
     </option>
   </component>
@@ -277,10 +302,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="259" />
-    <option name="y" value="15" />
-    <option name="width" value="1032" />
-    <option name="height" value="735" />
+    <option name="x" value="-87" />
+    <option name="y" value="18" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -320,6 +345,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -330,38 +356,37 @@
             <path>
               <item name="JavaHighLevel" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaHighLevel" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaInnerClass" type="462c0819:PsiDirectoryNode" />
+              <item name="Java8NewFeature" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaHighLevel" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaHighLevel" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaInnerClass" type="462c0819:PsiDirectoryNode" />
+              <item name="Java8NewFeature" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaHighLevel" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaHighLevel" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaInnerClass" type="462c0819:PsiDirectoryNode" />
+              <item name="Java8NewFeature" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="InnerClassStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaHighLevel" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaHighLevel" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="Java8NewFeature" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="gjw" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaHighLevel" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaHighLevel" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaHighLevel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaHighLevel" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaInnerClass" type="462c0819:PsiDirectoryNode" />
+              <item name="Java8NewFeature" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="gjw" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaHighLevel" type="b2602c69:ProjectViewProjectNode" />
@@ -371,7 +396,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -382,23 +406,25 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="Double&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Double.java&#10;InputStream&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/io/InputStream.java&#10;Arr&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Arrays.java&#10;Map&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Map.java&#10;Objects&#9;PSI&#9;JAVA://java.util.Objects&#10;Number&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Number.java&#10;Num&#9;PSI&#9;JAVA://com.gjw.javathread.Number&#10;HashMa&#9;PSI&#9;JAVA://java.util.HashMap&#10;List&#9;PSI&#9;JAVA://java.util.List&#10;String&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/String.java&#10;Proxy&#9;PSI&#9;JAVA://java.lang.reflect.Proxy&#10;InvocationHand&#9;PSI&#9;JAVA://java.lang.reflect.InvocationHandler&#10;ArrayLis&#9;PSI&#9;JAVA://java.util.ArrayList&#10;Arrays&#9;PSI&#9;JAVA://java.util.Arrays&#10;Date&#9;PSI&#9;JAVA://java.util.Date&#10;Syste&#9;PSI&#9;JAVA://java.lang.System&#10;StringBuilder&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/StringBuilder.java&#10;StringBuffer&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/StringBuffer.java&#10;S&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/String.java&#10;Reen&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock&#10;Thr&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Thread.java&#10;T&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Thread.java&#10;Thread&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Thread.java" />
+    <property name="SearchEverywhereHistoryKey" value="Collections&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Collections.java&#10;Double&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Double.java&#10;InputStream&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/io/InputStream.java&#10;Arr&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Arrays.java&#10;Map&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Map.java&#10;Objects&#9;PSI&#9;JAVA://java.util.Objects&#10;Number&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Number.java&#10;Num&#9;PSI&#9;JAVA://com.gjw.javathread.Number&#10;HashMa&#9;PSI&#9;JAVA://java.util.HashMap&#10;List&#9;PSI&#9;JAVA://java.util.List&#10;String&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/String.java&#10;Proxy&#9;PSI&#9;JAVA://java.lang.reflect.Proxy&#10;InvocationHand&#9;PSI&#9;JAVA://java.lang.reflect.InvocationHandler&#10;ArrayLis&#9;PSI&#9;JAVA://java.util.ArrayList&#10;Arrays&#9;PSI&#9;JAVA://java.util.Arrays&#10;Date&#9;PSI&#9;JAVA://java.util.Date&#10;Syste&#9;PSI&#9;JAVA://java.lang.System&#10;StringBuilder&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/StringBuilder.java&#10;StringBuffer&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/StringBuffer.java&#10;S&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/String.java&#10;Reen&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock&#10;Thr&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Thread.java&#10;T&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Thread.java&#10;Thread&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Thread.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587471532807" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588430157858" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaSourceLearn" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15429688" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\JavaHighLevel\JavaIO" />
+      <recent name="C:\Users\Administrator\Desktop\JavaHighLevel" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\Desktop\JavaHighLevel\JavaCollection" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\Desktop\JavaHighLevel" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -413,86 +439,101 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyDemo2">
-    <configuration name="MyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InnerClassStudy.MyDemo" />
-      <module name="JavaInnerClass" />
+  <component name="RunManager" selected="JUnit.StreamAPITest.test3">
+    <configuration name="ConstructorRefTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java8NewFeature" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InnerClassStudy.*" />
+          <option name="PATTERN" value="com.gjw.java8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.gjw.java8" />
+      <option name="MAIN_CLASS_NAME" value="com.gjw.java8.ConstructorRefTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InnerClassStudy.MyDemo2" />
-      <module name="JavaInnerClass" />
+    <configuration name="MethodReferencesTest.test7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java8NewFeature" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InnerClassStudy.*" />
+          <option name="PATTERN" value="com.gjw.java8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.gjw.java8" />
+      <option name="MAIN_CLASS_NAME" value="com.gjw.java8.MethodReferencesTest" />
+      <option name="METHOD_NAME" value="test7" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Outer3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InnerClassStudy.Outer3" />
-      <module name="JavaInnerClass" />
+    <configuration name="StreamAPITest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java8NewFeature" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InnerClassStudy.*" />
+          <option name="PATTERN" value="com.gjw.java8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.gjw.java8" />
+      <option name="MAIN_CLASS_NAME" value="com.gjw.java8.StreamAPITest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Outer4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InnerClassStudy.Outer4" />
-      <module name="JavaInnerClass" />
+    <configuration name="StreamAPITest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java8NewFeature" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InnerClassStudy.*" />
+          <option name="PATTERN" value="com.gjw.java8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.gjw.java8" />
+      <option name="MAIN_CLASS_NAME" value="com.gjw.java8.StreamAPITest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Outer5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InnerClassStudy.Outer5" />
-      <module name="JavaInnerClass" />
+    <configuration name="StreamAPITest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java8NewFeature" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InnerClassStudy.*" />
+          <option name="PATTERN" value="com.gjw.java8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.gjw.java8" />
+      <option name="MAIN_CLASS_NAME" value="com.gjw.java8.StreamAPITest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Outer3" />
-      <item itemvalue="Application.Outer4" />
-      <item itemvalue="Application.Outer5" />
-      <item itemvalue="Application.MyDemo" />
-      <item itemvalue="Application.MyDemo2" />
+      <item itemvalue="JUnit.MethodReferencesTest.test7" />
+      <item itemvalue="JUnit.ConstructorRefTest.test" />
+      <item itemvalue="JUnit.StreamAPITest.test1" />
+      <item itemvalue="JUnit.StreamAPITest.test2" />
+      <item itemvalue="JUnit.StreamAPITest.test3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyDemo2" />
-        <item itemvalue="Application.MyDemo" />
-        <item itemvalue="Application.Outer5" />
-        <item itemvalue="Application.Outer4" />
-        <item itemvalue="Application.Outer3" />
+        <item itemvalue="JUnit.StreamAPITest.test3" />
+        <item itemvalue="JUnit.StreamAPITest.test2" />
+        <item itemvalue="JUnit.StreamAPITest.test1" />
+        <item itemvalue="JUnit.ConstructorRefTest.test" />
+        <item itemvalue="JUnit.MethodReferencesTest.test7" />
       </list>
     </recent_temporary>
   </component>
@@ -521,7 +562,20 @@
       <workItem from="1587368125173" duration="1197000" />
       <workItem from="1587454571516" duration="3841000" />
       <workItem from="1587464348811" duration="4496000" />
-      <workItem from="1587517190713" duration="585000" />
+      <workItem from="1587517190713" duration="1330000" />
+      <workItem from="1587520309201" duration="12578000" />
+      <workItem from="1587547142716" duration="94000" />
+      <workItem from="1587733865721" duration="1063000" />
+      <workItem from="1587804151435" duration="13916000" />
+      <workItem from="1587868642438" duration="3389000" />
+      <workItem from="1587882042997" duration="26000" />
+      <workItem from="1587963084476" duration="733000" />
+      <workItem from="1587982430816" duration="6979000" />
+      <workItem from="1588038457854" duration="4930000" />
+      <workItem from="1588055029449" duration="11205000" />
+      <workItem from="1588143911896" duration="13476000" />
+      <workItem from="1588211142947" duration="7776000" />
+      <workItem from="1588381315012" duration="28390000" />
     </task>
     <task id="LOCAL-00001" summary="泛型和反射">
       <created>1586357046941</created>
@@ -541,45 +595,55 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FileTest_test1 - 2020.04.10 at 20h 37m 27s.xml">
-      <configuration name="FileTest.test1" configurationId="JUnit" />
+    <history-entry file="MethodReferencesTest_test4 - 2020.05.02 at 17h 07m 47s.xml">
+      <configuration name="MethodReferencesTest.test4" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InputStreamTest_test1 - 2020.04.10 at 21h 07m 41s.xml">
-      <configuration name="InputStreamTest.test1" configurationId="JUnit" />
+    <history-entry file="MethodReferencesTest_test5 - 2020.05.02 at 17h 14m 00s.xml">
+      <configuration name="MethodReferencesTest.test5" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InputStreamTest_test1 - 2020.04.10 at 21h 11m 07s.xml">
-      <configuration name="InputStreamTest.test1" configurationId="JUnit" />
+    <history-entry file="MethodReferencesTest_test6 - 2020.05.02 at 17h 16m 48s.xml">
+      <configuration name="MethodReferencesTest.test6" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InputStreamTest_test1 - 2020.04.10 at 21h 12m 18s.xml">
-      <configuration name="InputStreamTest.test1" configurationId="JUnit" />
+    <history-entry file="MethodReferencesTest_test7 - 2020.05.02 at 17h 22m 16s.xml">
+      <configuration name="MethodReferencesTest.test7" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InputStreamTest_test1 - 2020.04.10 at 21h 12m 52s.xml">
-      <configuration name="InputStreamTest.test1" configurationId="JUnit" />
+    <history-entry file="ConstructorRefTest_test - 2020.05.02 at 17h 30m 31s.xml">
+      <configuration name="ConstructorRefTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InputStreamTest_test1 - 2020.04.10 at 21h 12m 55s.xml">
-      <configuration name="InputStreamTest.test1" configurationId="JUnit" />
+    <history-entry file="StreamAPITest_test1 - 2020.05.02 at 21h 39m 40s.xml">
+      <configuration name="StreamAPITest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InputStreamTest_test1 - 2020.04.10 at 21h 15m 40s.xml">
-      <configuration name="InputStreamTest.test1" configurationId="JUnit" />
+    <history-entry file="StreamAPITest_test1 - 2020.05.02 at 21h 40m 58s.xml">
+      <configuration name="StreamAPITest.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SerializationTest_test1 - 2020.04.10 at 21h 42m 53s.xml">
-      <configuration name="SerializationTest.test1" configurationId="JUnit" />
+    <history-entry file="StreamAPITest_test2 - 2020.05.02 at 22h 01m 49s.xml">
+      <configuration name="StreamAPITest.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SerializationTest_test1 - 2020.04.10 at 21h 47m 10s.xml">
-      <configuration name="SerializationTest.test1" configurationId="JUnit" />
+    <history-entry file="StreamAPITest_test3 - 2020.05.02 at 22h 18m 40s.xml">
+      <configuration name="StreamAPITest.test3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InputStreamTest_test1 - 2020.04.10 at 21h 58m 02s.xml">
-      <configuration name="InputStreamTest.test1" configurationId="JUnit" />
+    <history-entry file="StreamAPITest_test3 - 2020.05.02 at 22h 23m 20s.xml">
+      <configuration name="StreamAPITest.test3" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86737000" />
+    <option name="totallyTimeSpent" value="192037000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.3088737" visible="true" weight="0.2246596" />
-      <window_info id="Structure" order="1" sideWeight="0.6911263" side_tool="true" weight="0.17902099" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.45038167" visible="true" weight="0.28441754" />
+      <window_info id="Structure" order="1" sideWeight="0.5496183" side_tool="true" visible="true" weight="0.28441754" />
       <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.503212" side_tool="true" weight="0.25718608" />
@@ -587,21 +651,21 @@
       <window_info id="设计器" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32913387" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4031496" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38110235" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32913387" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.31181103" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32913387" />
       <window_info anchor="bottom" id="Statistic" order="9" />
       <window_info anchor="bottom" id="SonarLint" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.32854864" />
-      <window_info anchor="bottom" id="调试" order="14" weight="0.37480316" />
-      <window_info anchor="bottom" id="MyBatis Log" order="15" weight="0.32935154" />
-      <window_info anchor="bottom" id="Tail" order="16" />
+      <window_info anchor="bottom" id="调试" order="13" weight="0.5255591" />
+      <window_info anchor="bottom" id="MyBatis Log" order="14" weight="0.32935154" />
+      <window_info anchor="bottom" id="Tail" order="15" />
+      <window_info anchor="bottom" id="Messages" order="16" weight="0.32755905" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24960753" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -638,16 +702,22 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/JavaAnnotation/src/com/gjw/annotation/AnnotationTest.java</url>
-          <line>68</line>
-          <properties />
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/JavaCollection/src/com/gjw/collection/UserCompratar.java</url>
           <line>19</line>
           <properties />
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaCollection/src/com/gjw/CollectionStudy/ListIterator.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/MethodReferencesTest.java</url>
+          <line>137</line>
+          <properties />
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -659,6 +729,11 @@
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
       <expression>
+        <expression-string>stringListIterator</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>Integer.compare(number1,number2)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
@@ -666,381 +741,459 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaCollection/src/com/gjw/collection/MapTest.java">
+    <entry file="file://$PROJECT_DIR$/JavaSocket/src/main/java/com/gjw/socket/UDPSend.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="82" column="47" selection-start-line="82" selection-start-column="47" selection-end-line="82" selection-end-column="47" />
+        <state relative-caret-position="491">
+          <caret line="22" column="139" selection-start-line="22" selection-start-column="139" selection-end-line="22" selection-end-column="139" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/EnumMap.java">
+    <entry file="file://$PROJECT_DIR$/JavaSocket/src/main/java/com/gjw/socket/TCPServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="755" lean-forward="true" selection-start-line="755" selection-end-line="755" />
+        <state relative-caret-position="384">
+          <caret line="41" column="20" lean-forward="true" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaGeneric/src/com/gjw/generic/Pair.java">
+    <entry file="file://$PROJECT_DIR$/JavaSocket/src/main/java/com/gjw/socket/TCPServer2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        <state relative-caret-position="228">
+          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaGeneric/src/com/gjw/generic/GenericTest.java">
+    <entry file="file://$PROJECT_DIR$/JavaSocket/src/main/java/com/gjw/socket/Worker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="88" column="41" selection-start-line="88" selection-start-column="41" selection-end-line="88" selection-end-column="41" />
+        <state relative-caret-position="287">
+          <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaCollection/src/com/gjw/collection/EnumMapTest.java">
+    <entry file="file://$PROJECT_DIR$/JavaSocket/src/main/java/com/gjw/socket/TCPClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="33" column="43" lean-forward="true" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
+        <state relative-caret-position="439">
+          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaGeneric/src/com/gjw/generic/Person.java">
+    <entry file="file://$PROJECT_DIR$/JavaSocket/src/main/java/com/gjw/socket/HTTPTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+        <state relative-caret-position="286">
+          <caret line="58" column="41" selection-start-line="58" selection-start-column="41" selection-end-line="58" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaCollection/src/com/gjw/collection/TheeMapTest.java">
+    <entry file="file://$PROJECT_DIR$/JavaSocket/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="234">
+          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaCollection/src/my.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaCollection/xx.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaCollection/setting.properties">
+    <entry file="jar://D:/maven_repository/org/apache/httpcomponents/httpclient/4.5.12/httpclient-4.5.12.jar!/org/apache/http/client/HttpClient.class">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="7" selection-start-column="7" selection-end-column="7" />
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Properties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="138" column="11" selection-start-line="138" selection-start-column="11" selection-end-line="138" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.util.Queue">
+    <entry file="uml://JAVA/org.apache.http.client.HttpClient">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
           <ID>JAVA</ID>
-          <OriginalElement>java.util.Queue</OriginalElement>
+          <OriginalElement>org.apache.http.client.HttpClient</OriginalElement>
           <nodes>
-            <node x="" y="">java.util.Collection</node>
-            <node x="" y="">java.util.Queue</node>
-            <node x="" y="">java.util.LinkedList</node>
-            <node x="" y="">java.lang.Iterable</node>
+            <node x="26.0" y="80.0">org.apache.http.client.HttpClient</node>
+            <node x="0.0" y="0.0">java.lang.SuppressWarnings</node>
           </nodes>
           <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="53.0" y="145.0" />
-          <SelectedNodes />
+          <edges>
+            <edge source="org.apache.http.client.HttpClient" target="java.lang.SuppressWarnings">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-160.0" y="99.0" />
+          <SelectedNodes>
+            <node>org.apache.http.client.HttpClient</node>
+            <node>java.lang.SuppressWarnings</node>
+          </SelectedNodes>
           <Categories />
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaCollection/src/com/gjw/collection/Person.java">
+    <entry file="jar://D:/maven_repository/org/apache/httpcomponents/httpclient/4.5.12/httpclient-4.5.12-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="101" />
+        <state relative-caret-position="1035">
+          <caret line="156" column="13" selection-start-line="156" selection-start-column="13" selection-end-line="156" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaCollection/src/com/gjw/collection/PropertiesTest.java">
+    <entry file="jar://D:/maven_repository/org/apache/httpcomponents/httpclient/4.5.12/httpclient-4.5.12-sources.jar!/org/apache/http/client/HttpClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="54" column="67" selection-start-line="54" selection-start-column="67" selection-end-line="54" selection-end-column="67" />
+        <state relative-caret-position="139">
+          <caret line="48" column="23" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaCollection/src/com/gjw/collection/SetTest.java">
+    <entry file="file://$PROJECT_DIR$/JavaSocket/src/main/java/com/gjw/socket/UDPRec.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2">
-          <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
+        <state relative-caret-position="416">
+          <caret line="41" column="45" lean-forward="true" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaCollection/src/com/gjw/collection/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaCollection/src/com/gjw/collection/UserCompratar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/DualPivotQuicksort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="1969" column="16" selection-start-line="1969" selection-start-column="16" selection-end-line="1969" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaCollection/src/com/gjw/collection/QueueTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="715">
-          <caret line="80" selection-start-line="80" selection-end-line="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaCollection/src/com/gjw/collection/DequeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="39" column="46" selection-start-line="39" selection-start-column="46" selection-end-line="39" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.util.Stack">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.util.Stack</OriginalElement>
-          <nodes>
-            <node x="" y="">java.util.RandomAccess</node>
-            <node x="" y="">java.util.List</node>
-            <node x="" y="">java.lang.Cloneable</node>
-            <node x="" y="">java.util.AbstractCollection</node>
-            <node x="" y="">java.util.Vector</node>
-            <node x="" y="">java.util.Collection</node>
-            <node x="" y="">java.util.AbstractList</node>
-            <node x="" y="">java.util.Stack</node>
-            <node x="" y="">java.lang.Iterable</node>
-            <node x="" y="">java.io.Serializable</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.5244444444444447" x="404.0" y="346.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-435">
-          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaCollection/src/com/gjw/collection/StackTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="40" column="40" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaCollection/src/com/gjw/collection/CollectionsTest.java">
+    <entry file="file://$PROJECT_DIR$/JavaSocket/src/main/java/com/gjw/socket/HttpClientTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
-          <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaCollection/java-coll.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaCollection/集合gif.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Arrays.java">
+    <entry file="file://$PROJECT_DIR$/JavaSocket/src/main/java/com/gjw/socket/NIOTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-64">
-          <caret line="303" column="31" selection-start-line="303" selection-start-column="31" selection-end-line="303" selection-end-column="31" />
+        <state relative-caret-position="828">
+          <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/java.io.InputStream">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.io.InputStream</OriginalElement>
-          <nodes>
-            <node x="" y="">java.io.Closeable</node>
-            <node x="" y="">java.lang.AutoCloseable</node>
-            <node x="" y="">java.io.InputStream</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="66.0" y="95.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
+    <entry file="file://$PROJECT_DIR$/JavaSocket/src/main/java/com/gjw/socket/AIOTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/io/InputStream.java">
+    <entry file="file://$PROJECT_DIR$/JavaSocket/src/main/java/com/gjw/socket/MailTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="44" column="28" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
+        <state relative-caret-position="368">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaIO/readme.txt">
+    <entry file="file://$PROJECT_DIR$/JavaGeneric/src/com/gjw/java2/GenericTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+        <state relative-caret-position="1472">
+          <caret line="69" column="32" selection-start-line="69" selection-start-column="32" selection-end-line="69" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readme1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Double.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-966" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaIO/src/com/gjw/io/OutPutStreamTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/JavaIO/com/gjw/io/Person.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-69" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaIO/src/com/gjw/io/Blog.java" />
-    <entry file="file://$PROJECT_DIR$/JavaIO/src/com/gjw/io/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="18" column="45" lean-forward="true" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaIO/src/com/gjw/io/InputStreamTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="56" column="39" selection-start-line="56" selection-start-column="39" selection-end-line="56" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaIO/src/com/gjw/io/SerializationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaIO/src/com/gjw/io/FileTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/OuterClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/Outer2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/Outer3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/Outer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/Outer4.java">
+    <entry file="file://$PROJECT_DIR$/JavaGeneric/src/com/gjw/java2/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/Outer5.java">
+    <entry file="file://$PROJECT_DIR$/../JavaSourceLearn/src/com/gjw/jdk8source/java/lang/SuppressWarnings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        <state relative-caret-position="151">
+          <caret line="51" selection-start-line="51" selection-end-line="51" selection-end-column="70" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/Demo1.java">
+    <entry file="file://$PROJECT_DIR$/../JavaSourceLearn/src/com/gjw/jdk8source/java/lang/reflect/Modifier.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        <state relative-caret-position="138">
+          <caret line="40" column="29" lean-forward="true" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaSourceLearn/src/com/gjw/jdk8source/java/lang/reflect/Type.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaGeneric/src/com/gjw/Dao/CustomerDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-46">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaGeneric/src/com/gjw/Dao/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaGeneric/src/com/gjw/Dao/DaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="13" column="57" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaGeneric/src/com/gjw/Dao/MyDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
           <folding>
-            <element signature="e#71#72#0" expanded="true" />
-            <element signature="e#99#100#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/Demo2.java">
+    <entry file="file://$PROJECT_DIR$/JavaReflect/src/com/gjw/reflect2/FieldTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        <state relative-caret-position="135">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#test2#0;class#FieldTest#0" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/MyDemo.java">
+    <entry file="file://$PROJECT_DIR$/JavaReflect/src/com/gjw/reflect2/MethodTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#test1#0;class#MethodTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaReflect/src/com/gjw/reflect2/MyAnnotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaReflect/src/com/gjw/reflect2/MyInterface.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
-          <caret line="2" selection-start-line="2" selection-end-line="34" />
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/Demo3.java">
+    <entry file="file://$PROJECT_DIR$/JavaReflect/src/com/gjw/reflect2/OtherTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaReflect/src/com/gjw/reflect2/Creature.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaInnerClass/src/InnerClassStudy/MyDemo2.java">
+    <entry file="file://$PROJECT_DIR$/JavaReflect/src/com/gjw/reflect2/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="107">
+          <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+          <folding>
+            <element signature="e#872#873#0" expanded="true" />
+            <element signature="e#913#914#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaReflect/src/com/gjw/reflect2/ReflectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="71" column="35" lean-forward="true" selection-start-line="71" selection-start-column="35" selection-end-line="71" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#testField#0;class#ReflectionTest#0" />
+            <element signature="method#testField2#0;class#ReflectionTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaReflect/src/com/gjw/reflect2/StaticProxyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding>
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaReflect/src/com/gjw/reflect2/ProxyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="86" column="38" selection-start-line="86" selection-start-column="38" selection-end-line="86" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaSourceLearn/src/com/gjw/jdk8source/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-697">
+          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaSourceLearn/src/com/gjw/jdk8source/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-398">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaSourceLearn/src/com/gjw/jdk8source/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaSourceLearn/src/com/gjw/jdk8source/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="67" column="31" lean-forward="true" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/MyInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/LambdaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-122">
+          <caret line="38" column="38" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#1166#1167#0" expanded="true" />
+            <element signature="e#1219#1220#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/Java8Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/FunctionInterfaceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="56" column="23" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#filterString#0;class#FunctionInterfaceTest#0" />
+            <element signature="method#test1#0;class#FunctionInterfaceTest#0" />
+            <element signature="method#test2#0;class#FunctionInterfaceTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/MethodReferencesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="135" selection-start-line="135" selection-end-line="135" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#test1#0;class#MethodReferencesTest#0" />
+            <element signature="method#test1#0;class#MethodReferencesTest#0" />
+            <element signature="docComment;method#test2#0;class#MethodReferencesTest#0" />
+            <element signature="method#test2#0;class#MethodReferencesTest#0" />
+            <element signature="e#2089#2090#0" expanded="true" />
+            <element signature="e#2132#2133#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaSourceLearn/src/com/gjw/jdk8source/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9603">
+          <caret line="153" column="17" selection-start-line="153" selection-start-column="17" selection-end-line="153" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaSourceLearn/src/com/gjw/jdk8source/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="602" column="5" lean-forward="true" selection-start-line="600" selection-start-column="4" selection-end-line="602" selection-end-column="5" />
+          <folding>
+            <element signature="e#26957#26958#0" expanded="true" />
+            <element signature="e#27022#27023#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/ConstructorRefTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="59" column="36" selection-start-line="59" selection-start-column="36" selection-end-line="59" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="60" column="68" selection-start-line="60" selection-start-column="68" selection-end-line="60" selection-end-column="68" />
+          <folding>
+            <element signature="e#572#573#0" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#1392#1393#0" expanded="true" />
+            <element signature="e#1446#1447#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaSourceLearn/src/com/gjw/jdk8source/java/util/function/Predicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="48" column="22" lean-forward="true" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/EmployeeUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/StreamAPITest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="111" column="53" selection-start-line="111" selection-start-column="53" selection-end-line="111" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1096,12 +1249,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>JavaReflect</last-edited>
+          <last-edited>Java8NewFeature</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

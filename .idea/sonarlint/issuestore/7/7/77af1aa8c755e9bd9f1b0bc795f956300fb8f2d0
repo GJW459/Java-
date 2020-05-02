@@ -1,0 +1,27 @@
+
+M
+java:S1481"+Remove this unused "orderT" local variable.(±Ù²ğûÿÿÿÿ8›„­Ù›.
+N
+java:S1481",Remove this unused "orderT1" local variable.(ƒ¯Ú«øÿÿÿÿ8æ¡Ù›.
+\
+java:S1854":Remove this useless assignment to local variable "orderT".(±Ù²ğûÿÿÿÿ8›„­Ù›.
+]
+java:S1854";Remove this useless assignment to local variable "orderT1".(Ò±ºÔüÿÿÿÿ8Î›µÙ›.
+]
+java:S1854";Remove this useless assignment to local variable "orderT1".(ƒ¯Ú«øÿÿÿÿ8æ¡Ù›.
+H
+java:S1481"+Remove this unused "orderT" local variable.(õ…†º8£ÂŸÙ›.
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(†¯™Æ8…àÙ›.
+W
+java:S1191"5Use classes from the Java API instead of Sun classes.(èú¨Óşÿÿÿÿ8ú”ßÙ›.
+W
+java:S1854":Remove this useless assignment to local variable "orderT".(õ…†º8£ÂŸÙ›.
+k
+java:S1128"IRemove this unused import 'com.sun.org.apache.bcel.internal.generic.NEW'.(èú¨Óşÿÿÿÿ8ú”ßÙ›.
+]	java:S125#"<This block of commented-out lines of code should be removed.(ƒõ„ãúÿÿÿÿ8®ØÊÙ›.
+N
+java:S1481",Remove this unused "orderT1" local variable.(Ò±ºÔüÿÿÿÿ8Î›µÙ›.
+V
+java:S1854)"9Remove this useless assignment to local variable "order".(ìÑŠå8×ÈèÙ›.
+G
+java:S1481)"*Remove this unused "order" local variable.(ìÑŠå8×ÈèÙ›.

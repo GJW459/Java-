@@ -1,0 +1,20 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(«òˆì8é¸è€š.
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(İ˜½…ùÿÿÿÿ8¼š÷€š.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(âæÓ8Ì“ã€š.
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(á‹¶ùÿÿÿÿ8–‘õ€š.
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(«òˆì8ò¯î€š.
+U	java:S106!"9Replace this use of System.out or System.err by a logger.( ‡›·8Çİî€š.
+J
+java:S2114'"(Remove or correct this "removeAll" call.(¾–ôšùÿÿÿÿ8¼š÷€š.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(«òˆì8¿†â€š.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ùúì³8º·é€š.
+H
+java:S1481"+Remove this unused "random" local variable.(µ‘¸‚8âìÕ€š.
+]	java:S125"<This block of commented-out lines of code should be removed.(®¬û¼úÿÿÿÿ8‹–¾€š.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•İ¦Õ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(™™®À8úĞØ€š.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ì³¯ğ8úĞØ€š.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ®ß­ıÿÿÿÿ8¿†â€š.
+W
+java:S1854":Remove this useless assignment to local variable "random".(µ‘¸‚8âìÕ€š.

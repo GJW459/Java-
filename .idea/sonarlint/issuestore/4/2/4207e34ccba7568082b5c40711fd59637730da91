@@ -2,9 +2,9 @@
 X	java:S125)"<This block of commented-out lines of code should be removed.(»ƒ¸Ÿ8„î·ğ•.
 \
 java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8¯­Õğ•.
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(«‹Îõ8 ä«ğ•.
+b	java:S112!"FDefine and throw a dedicated exception instead of using a generic one.(ÉüÃÍ8ùºªğ•.
 [
 java:S1128">Remove this unused import 'java.nio.charset.StandardCharsets'.(ï˜ŞÛ8¤ÎÙğ•.
-U	java:S106&"9Replace this use of System.out or System.err by a logger.(«‹Îõ8 ä«ğ•.
 g	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(ÙÓÆøúÿÿÿÿ8¯­Õğ•.
 U	java:S106-"9Replace this use of System.out or System.err by a logger.(¦Ã•8ƒö´ğ•.
-b	java:S112!"FDefine and throw a dedicated exception instead of using a generic one.(ÉüÃÍ8ùºªğ•.

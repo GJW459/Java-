@@ -1,0 +1,86 @@
+
+¤
+java:S1186Ò"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¯–ÿ¿ùÿÿÿÿ8ÃÁÒƒœ.
+F
+java:S1148¿"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¿–«ÿ›.
+E
+java:S1148I"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ø¬ş›.
+c
+java:S2147"ECombine this catch with the one at line 284, which has the same body.(ï­£Ä8¸Å‚œ.
+c
+java:S2147•"ECombine this catch with the one at line 147, which has the same body.(ï­£Ä8™¸‹ÿ›.
+c
+java:S2147‚"ECombine this catch with the one at line 128, which has the same body.(ï­£Ä8¬§åş›.
+[	java:S106Ò"9Replace this use of System.out or System.err by a logger.(äÿïÃüÿÿÿÿ8ò¡Îÿ›.
+c
+java:S2147«"ECombine this catch with the one at line 169, which has the same body.(ï­£Ä8à®¡ÿ›.
+V	java:S106ş"9Replace this use of System.out or System.err by a logger.(œ•é‹8§È¢‚œ.
+F
+java:S1148Õ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ßÈÿ›.
+U	java:S106~"9Replace this use of System.out or System.err by a logger.(öÈÿî8É®ûş›.
+F
+java:S1148¬"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8à®¡ÿ›.
+E
+java:S1148G"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ø¬ş›.
+F
+java:S1148ğ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½È’‚œ.
+n
+java:S1192"KDefine a constant instead of duplicating this literal "é›†åˆ.gif" 3 times.(¯½şÿÿÿÿ8İ°Ë‚œ.
+l
+java:S1192T"JDefine a constant instead of duplicating this literal "hello.txt" 4 times.(Ø“™Ôıÿÿÿÿ8‡Ê¼ƒœ.
+F
+java:S1148ª"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8à®¡ÿ›.
+F
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¸Å‚œ.
+F
+java:S1148Á"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¿–«ÿ›.
+F
+java:S1148ƒ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¬§åş›.
+c
+java:S2147À"ECombine this catch with the one at line 190, which has the same body.(ï­£Ä8¿–«ÿ›.
+F
+java:S1148Ÿ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¸Å‚œ.
+F
+java:S1148”"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8™¸‹ÿ›.
+F
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½°œ‚œ.
+E
+java:S1148n"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8˜ĞÓş›.
+F
+java:S1148×"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ßÈÿ›.
+F
+java:S1148ò"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½È’‚œ.
+l
+java:S2095¦"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(Úä®8ÙÒ„ƒœ.
+m
+java:S11926"KDefine a constant instead of duplicating this literal "readme.txt" 5 times.(„¾Çòÿÿÿÿÿ8½­áş›.
+E
+java:S1148l"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8˜ĞÓş›.
+F
+java:S1148ƒ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½°œ‚œ.
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(ñ‚‰8£Ü¿ş›.
+b
+java:S2147m"ECombine this catch with the one at line 107, which has the same body.(ï­£Ä8˜ĞÓş›.
+E
+java:S1148X"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8º¡Æş›.
+c
+java:S2147ñ"ECombine this catch with the one at line 239, which has the same body.(ï­£Ä8½È’‚œ.
+F
+java:S1148–"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8™¸‹ÿ›.
+l
+java:S2095²"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(Úä®8‡Ê¼ƒœ.
+\
+java:S4719Í"9Replace charset name argument with StandardCharsets.UTF_8(İäÄ²ûÿÿÿÿ8Ş Êÿ›.
+a
+java:S2147H"DCombine this catch with the one at line 70, which has the same body.(ï­£Ä8Ø¬ş›.
+c
+java:S2147Ö"ECombine this catch with the one at line 212, which has the same body.(ï­£Ä8ßÈÿ›.
+F
+java:S1148…"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8±Ä ‚œ.
+c
+java:S2147„"ECombine this catch with the one at line 256, which has the same body.(ıàÑÎ8±Ä ‚œ.
+F
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¬§åş›.
+]	java:S125B"<This block of commented-out lines of code should be removed.(¶¾ÄÁûÿÿÿÿ8”¥Àş›.
+c
+java:S2147‚"ECombine this catch with the one at line 256, which has the same body.(ï­£Ä8½°œ‚œ.
