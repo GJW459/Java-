@@ -1,0 +1,17 @@
+
+q
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(òÇ¯¿8Û¹ ™.
+v
+java:S1210 "YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Ä×¶É8ÎËÔ—.
+£
+java:S1186%"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(´˜»Òüÿÿÿÿ8ãß—.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÑË¢Ğøÿÿÿÿ8¡›Ş—.
+J
+java:S1144("-Remove this unused private "showDesc" method.(èÑâ©8¨Äî™.
+p
+java:S1104"NMake id a static final constant or non-public and provide accessors if needed.(ÍéÌ‘øÿÿÿÿ8İí×—.
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(öÒå8¨Äî™.
+q
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(¦¦ø×8Û¹ ™.
+q
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Š•Ô8Û¹ ™.

@@ -1,0 +1,11 @@
+
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(÷ğåŸ8†ˆ¥¤.
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(ü»—«8€¸‡¤.
+q
+java:S4276"TRefactor this code to use the more specialised Functional Interface 'DoubleConsumer'(îîò÷8ÇÃ…¤.
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(áàÜë8ˆŞ¤.
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(‡îÁÂùÿÿÿÿ8¤¨¤.
+E
+java:S1604/"(Make this anonymous inner class a lambda(ĞæĞ8€¸‡¤.
+E
+java:S1604<"(Make this anonymous inner class a lambda(‚”Ñ®8¿Ò¢¤.

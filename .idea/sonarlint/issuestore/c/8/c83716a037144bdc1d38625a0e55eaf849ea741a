@@ -1,0 +1,8 @@
+
+U	java:S106R"9Replace this use of System.out or System.err by a logger.(£øäÃ8õæ­›.
+U	java:S106T"9Replace this use of System.out or System.err by a logger.(ší‹±8ñ°®›.
+W
+java:S1118*":Add a private constructor to hide the implicit public one.(ùÜˆæ8ğ·›.
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(é†Ûùÿÿÿÿ8ƒÚñš.
+€
+java:S1488H"^Immediately return this expression instead of assigning it to the temporary variable "invoke".(’ˆÁ©øÿÿÿÿ8Öø¡›.

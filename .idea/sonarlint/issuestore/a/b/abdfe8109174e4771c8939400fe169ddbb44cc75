@@ -1,8 +1,8 @@
 
 H
 java:S1168"+Return an empty collection instead of null.(¥¹ï8Çğ‹Ú›.
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÑœïC
 £
 java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¿ŒÒıÿÿÿÿÿ8Çğ‹Ú›.
-n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÑœïC
 £
 java:S1186	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÒÅÍ®øÿÿÿÿ8Çğ‹Ú›.

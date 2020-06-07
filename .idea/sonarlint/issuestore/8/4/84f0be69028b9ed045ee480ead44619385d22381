@@ -1,34 +1,34 @@
 
 [
-java:S1854>"9Remove this useless assignment to local variable "list2".(¢Æìÿÿÿÿÿ8Åçğİ›.
-H
-java:S1481+"&Remove this unused "o" local variable.(‰ìæ¸úÿÿÿÿ8Šà»İ›.
-[
-java:S1854&"9Remove this useless assignment to local variable "list3".(Ù„õäùÿÿÿÿ8é¬§İ›.
+java:S1854<"9Remove this useless assignment to local variable "list1".(„«¿œşÿÿÿÿ8†ÉĞİ›.
 M
 java:S1481B"+Remove this unused "object" local variable.(Ä§Òóıÿÿÿÿ8Ç¬ñİ›.
-W
-java:S1854+"5Remove this useless assignment to local variable "o".(‰ìæ¸úÿÿÿÿ8Šà»İ›.
+\
+java:S1854B":Remove this useless assignment to local variable "object".(Ä§Òóıÿÿÿÿ8Ç¬ñİ›.
 
 java:S4165"dRemove this useless assignment; "object" already holds the assigned value along all execution paths.(ßò¨8èÕ€İ›.
+W
+java:S1854+"5Remove this useless assignment to local variable "o".(‰ìæ¸úÿÿÿÿ8Šà»İ›.
 
 java:S4165"bRemove this useless assignment; "arr1" already holds the assigned value along all execution paths.(Œù×¢8ÂÚ„İ›.
-U
-java:S1854"8Remove this useless assignment to local variable "arr1".(Œù×¢8ÂÚ„İ›.
-[
-java:S1854<"9Remove this useless assignment to local variable "list1".(„«¿œşÿÿÿÿ8†ÉĞİ›.
 E
 java:S1481")Remove this unused "arr1" local variable.(¸Ìİ%8ˆ°„İ›.
+…
+java:S4165&"cRemove this useless assignment; "list3" already holds the assigned value along all execution paths.(Ù„õäùÿÿÿÿ8é¬§İ›.
+U
+java:S1854"8Remove this useless assignment to local variable "arr1".(Œù×¢8ÂÚ„İ›.
+M
+java:S1481"+Remove this unused "object" local variable.(¦Öİ“ûÿÿÿÿ8èÕ€İ›.
+[
+java:S1854&"9Remove this useless assignment to local variable "list3".(Ù„õäùÿÿÿÿ8é¬§İ›.
+[
+java:S1854>"9Remove this useless assignment to local variable "list2".(¢Æìÿÿÿÿÿ8Åçğİ›.
+W
+java:S1854A":Remove this useless assignment to local variable "person".(˜†±‚8ğÓîİ›.
 Z	java:S106O"9Replace this use of System.out or System.err by a logger.(¡¹—Òøÿÿÿÿ8ÁßÎİ›.
 H
 java:S1481A"+Remove this unused "person" local variable.(˜†±‚8ğÓîİ›.
-…
-java:S4165&"cRemove this useless assignment; "list3" already holds the assigned value along all execution paths.(Ù„õäùÿÿÿÿ8é¬§İ›.
 W
 java:S1854":Remove this useless assignment to local variable "object".(ßò¨8èÕ€İ›.
-\
-java:S1854B":Remove this useless assignment to local variable "object".(Ä§Òóıÿÿÿÿ8Ç¬ñİ›.
-W
-java:S1854A":Remove this useless assignment to local variable "person".(˜†±‚8ğÓîİ›.
-M
-java:S1481"+Remove this unused "object" local variable.(¦Öİ“ûÿÿÿÿ8èÕ€İ›.
+H
+java:S1481+"&Remove this unused "o" local variable.(‰ìæ¸úÿÿÿÿ8Šà»İ›.

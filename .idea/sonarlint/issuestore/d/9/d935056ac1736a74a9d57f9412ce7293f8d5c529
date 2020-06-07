@@ -1,0 +1,14 @@
+
+T	java:S106+"9Replace this use of System.out or System.err by a logger.(½ëg8ç“º˜.
+n
+java:S2259>"LA "NullPointerException" could be thrown; "exceptionTypes" is nullable here.(ãú¸ùÿÿÿÿ8“Ó˜.
+T	java:S106'"9Replace this use of System.out or System.err by a logger.(Æñ|8¹éÀ˜.
+n
+java:S22597"LA "NullPointerException" could be thrown; "parameterTypes" is nullable here.(†©±øÿÿÿÿ8ù¡Ì˜.
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(ôæ­ê8§í¾˜.
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(Ñó”8œ¬Â˜.
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(÷ÇÖüûÿÿÿÿ8à™Õ˜.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‡»åâüÿÿÿÿ8ô©­˜.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(£·®8ÁµŸ˜.
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(¶¼Àõ8Ú§Í˜.
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(“ùñ“8²Å˜.

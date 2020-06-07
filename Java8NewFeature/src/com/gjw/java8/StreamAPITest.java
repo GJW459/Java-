@@ -2,9 +2,8 @@ package com.gjw.java8;
 
 import org.junit.Test;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
+import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 /**
@@ -121,5 +120,98 @@ public class StreamAPITest {
             characters.add(c);
         }
         return characters.stream();
+    }
+
+    /**
+     * 3.排序
+     */
+    @Test
+    public void test4(){
+        List<Integer> list = Arrays.asList(1, 0, -1, 20, -20, 30);
+        //sort()自然排序
+        list.stream().sorted().forEach(System.out::println);
+        //sort(Comparator) 定制排序
+        //如 Employee对象要想排序 需要 实现那两种接口
+        List<Employee> employees = EmployeeUtils.getEmployees();
+        employees.stream().sorted(((o1, o2) -> {
+            int compare = Integer.compare(o1.getAge(), o2.getAge());
+            return compare!=0?compare:Double.compare(o1.getSalary(),o2.getSalary());
+        })).forEach(System.out::println);
+    }
+
+    /**
+     * 终止操作
+     * 1-匹配和查找
+     */
+    @Test
+    public void test5(){
+        List<Employee> employees = EmployeeUtils.getEmployees();
+        //allMatch(Predicate p) -检查是否匹配所有元素
+        //练习:是否所有员工的年龄都大于18
+        boolean b = employees.stream().allMatch(e -> e.getAge() > 18);
+        System.out.println(b);
+        //anyMatch(Predicate p) 检查是否至少匹配一个元素
+        boolean b1 = employees.stream().anyMatch(e -> e.getSalary() > 10000);
+        System.out.println(b1);
+        //noneMatch: 检查是否没有匹配元素
+        boolean b2 = employees.stream().noneMatch(e -> e.getName().contains("郭"));
+        System.out.println(b2);
+        //findFirst 返回第一个元素
+        Optional<Employee> first = employees.stream().findFirst();
+        System.out.println(first);
+        //findAny 返回当前流中的任意元素
+        Optional<Employee> any = employees.stream().findAny();
+        System.out.println(any);
+        //count 返回一个流中的元素个数
+        long count = employees.stream().count();
+        System.out.println(count);
+        long count1 = employees.stream().filter(e -> e.getSalary() > 5000).count();
+        System.out.println(count1);
+        //max 返回流中的最大值
+        //返回员工中的最高工资
+        Stream<Double> doubleStream = employees.stream().map(Employee::getSalary);
+        Optional<Double> max = doubleStream.max(Double::compareTo);
+        System.out.println(max);
+        //返回最低工资的员工
+        Optional<Employee> min = employees.stream().min((e1, e2) -> Double.compare(e1.getSalary(), e1.getSalary()));
+        System.out.println(min);
+        //ForEach 内部迭代 Stream API使用内部迭代
+        employees.stream().forEach(System.out::println);
+        //Collection 外部迭代
+        employees.forEach(System.out::println);
+
+    }
+
+    /**
+     * 2.归约
+     */
+    @Test
+    public void test6(){
+        //reduce(T identity,BinaryOperator) - 可以将流中的元素反复结合起来,得到一个值,返回T
+        //练习1-10的自然数和
+        List<Integer> list = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9, 10);
+        Integer reduce = list.stream().reduce(0, Integer::sum);
+        System.out.println(reduce);
+        //reduce(BinaryOperator) -可以将流中的元素反复结合起来,得到一个值.返回Optional<T>
+        //练习:计算公司所有员工工资的总和
+        List<Employee> employees = EmployeeUtils.getEmployees();
+        Stream<Double> doubleStream = employees.stream().map(Employee::getSalary);
+        Optional<Double> reduce1 = doubleStream.reduce(Double::sum);
+        System.out.println(reduce1);
+    }
+
+    /**
+     * 3.收集
+     */
+    @Test
+    public void test7(){
+        //collect(Collector c) Collectors有很多静态方法
+        //练习工资大于6000的员工
+        List<Employee> employees = EmployeeUtils.getEmployees();
+        List<Employee> collect = employees.stream().filter(employee -> employee.getSalary() > 6000).collect(Collectors.toList());
+        collect.forEach(System.out::println);
+        System.out.println();
+        Set<Employee> collect1 = employees.stream().filter(employee -> employee.getSalary() > 6000).collect(Collectors.toSet());
+        collect1.forEach(System.out::println);
     }
 }

@@ -1,0 +1,34 @@
+
+J
+java:S1604"(Make this anonymous inner class a lambda(äë¬±üÿÿÿÿ8©Ô× .
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8üÃ…¡.
+I
+java:S1612F",Replace this lambda with a method reference.(öäİı8¶‡˜¡.
+U	java:S106M"9Replace this use of System.out or System.err by a logger.(ˆşÅß8Ü³¥¡.
+I
+java:S1612<",Replace this lambda with a method reference.(“©ª‘8üÃ…¡.
+I
+java:S1602A",Remove useless curly braces around statement(½ßº›8¨Õ‘¡.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(×Š’8é Ü .
+I
+java:S1602<",Remove useless curly braces around statement(“©ª‘8üÃ…¡.
+Z	java:S106P"9Replace this use of System.out or System.err by a logger.(ûÃ ûÿÿÿÿ8Ü³¥¡.
+T	java:S106L"9Replace this use of System.out or System.err by a logger.(ïõõ	8Ü³¥¡.
+N
+java:S16021",Remove useless curly braces around statement(¸‹¨ıÿÿÿÿ8°‚‚¡.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Œ–­ï8©Ô× .
+L
+java:S1611A"/Remove the parentheses around the "s" parameter(½ßº›8¨Õ‘¡.
+I
+java:S1612A",Replace this lambda with a method reference.(½ßº›8¨Õ‘¡.
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8¶‡˜¡.
+I
+java:S1602F",Remove useless curly braces around statement(öäİı8¶‡˜¡.
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8¨Õ‘¡.
+Z	java:S106S"9Replace this use of System.out or System.err by a logger.(–¹³ÿÿÿÿÿ8‰»­¡.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(äşÒÇ8©Ô× .
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8°‚‚¡.
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(Ëç ¹ùÿÿÿÿ8Ëò‚¡.
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(¸‹¨ıÿÿÿÿ8š¬ö .
+J
+java:S16044"(Make this anonymous inner class a lambda(şòĞúıÿÿÿÿ8°‚‚¡.

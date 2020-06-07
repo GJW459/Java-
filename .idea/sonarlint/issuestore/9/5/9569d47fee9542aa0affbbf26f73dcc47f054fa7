@@ -1,0 +1,34 @@
+
+Z	java:S106b"9Replace this use of System.out or System.err by a logger.(Ñ“ùäüÿÿÿÿ8–‘¥.
+U	java:S106o"9Replace this use of System.out or System.err by a logger.(‡¬³ï8†º ¥.
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(°è­‡üÿÿÿÿ8œ¿æ¤.
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(ñ¥¥¨üÿÿÿÿ8×•û¤.
+U	java:S106}"9Replace this use of System.out or System.err by a logger.(˜»ó8ßñ¯¥.
+J
+java:S1604V"(Make this anonymous inner class a lambda(…Á©èùÿÿÿÿ8Á£†¥.
+w
+java:S4276^"ZRefactor this code to use the more specialised Functional Interface 'DoubleToLongFunction'(µÜœ÷8•Ç‹¥.
+U	java:S106)"9Replace this use of System.out or System.err by a logger.( ­8†ğÍ¤.
+w
+java:S4276a"ZRefactor this code to use the more specialised Functional Interface 'DoubleToLongFunction'(¤ŒÙ¤8–‘¥.
+I
+java:S1612",Replace this lambda with a method reference.(®ÖÂ8¡ÍÃ¥.
+[	java:S106€"9Replace this use of System.out or System.err by a logger.(Ã»•øÿÿÿÿ8Ÿï±¥.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(É×´8ãôÁ¥.
+N
+java:S1612;",Replace this lambda with a method reference.(…òÚüúÿÿÿÿ8õÀã¤.
+Z	java:S106r"9Replace this use of System.out or System.err by a logger.(Ã¼ôŒøÿÿÿÿ8Ö¨§¥.
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(—ÙËÈúÿÿÿÿ8œçø¤.
+I
+java:S1612H",Replace this lambda with a method reference.(ŒÂ8Ğ¾ø¤.
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(ìïÏ²8ôÊ½¤.
+I
+java:S1612&",Replace this lambda with a method reference.(ìïÏ²8ôÊ½¤.
+Z	java:S106_"9Replace this use of System.out or System.err by a logger.(›•œ«úÿÿÿÿ8¥Œ¥.
+I
+java:S1612^",Replace this lambda with a method reference.(µÜœ÷8•Ç‹¥.
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(µĞîöüÿÿÿÿ8½¦ä¤.
+|
+java:S4276V"ZRefactor this code to use the more specialised Functional Interface 'DoubleToLongFunction'(…Á©èùÿÿÿÿ8Á£†¥.
+Z	java:S106\"9Replace this use of System.out or System.err by a logger.(×¯ı”ûÿÿÿÿ8áºˆ¥.
+U	java:S106“"9Replace this use of System.out or System.err by a logger.(Ãàç_8¼îÅ¥.

@@ -1,0 +1,13 @@
+
+g	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(ø“›¦ùÿÿÿÿ8—ƒË™.
+b	java:S112."FDefine and throw a dedicated exception instead of using a generic one.(Ä›Ä8´îİ™.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8¸Ä™.
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÂÊÃ°8Øáº™.
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(’£Û£ùÿÿÿÿ8ïÑô™.
+M
+java:S14817"+Remove this unused "nation" local variable.(Ï·Øäıÿÿÿÿ8Ö­ë™.
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(œ•é‹8§Ÿ‰š.
+g	java:S112A"FDefine and throw a dedicated exception instead of using a generic one.(íñ†‚øÿÿÿÿ8Ïº‚š.
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(¡¶•×ûÿÿÿÿ8‚Ó™.
+\
+java:S18547":Remove this useless assignment to local variable "nation".(Ï·Øäıÿÿÿÿ8Ö­ë™.

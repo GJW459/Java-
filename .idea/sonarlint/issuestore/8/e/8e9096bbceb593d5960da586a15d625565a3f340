@@ -1,0 +1,36 @@
+
+b
+java:S18544"@Remove this useless assignment to local variable "stringStream".(ùµ¬’úÿÿÿÿ8Ñ“Ó¬.
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(‘“şÂşÿÿÿÿ8äÜø¬.
+S
+java:S14814"1Remove this unused "stringStream" local variable.(ùµ¬’úÿÿÿÿ8Ñ“Ó¬.
+Z	java:S106e"9Replace this use of System.out or System.err by a logger.(Ù¥ØÙÿÿÿÿÿ8‡œ®.
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(‡ÂİŞûÿÿÿÿ8¨“ò¬.
+Z	java:S106Y"9Replace this use of System.out or System.err by a logger.(ÃµÉ®ıÿÿÿÿ8ÌÀÅ­.
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(—Õœšÿÿÿÿÿ8€•£­.
+v
+java:S3012y"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(èĞŞö8°Öº®.
+c
+java:S18548"ARemove this useless assignment to local variable "integerStream".(®óÿ¿úÿÿÿÿ8’ªæ¬.
+Z	java:S106Z"9Replace this use of System.out or System.err by a logger.(’İìÏıÿÿÿÿ8ŒèÈ­.
+X
+java:S18546";Remove this useless assignment to local variable "stream1".(ğÔÇ‰8 ÁŞ¬.
+Z	java:S106R"9Replace this use of System.out or System.err by a logger.(¨’“èùÿÿÿÿ8äô¸­.
+Z	java:S106h"9Replace this use of System.out or System.err by a logger.(ŸõÌšşÿÿÿÿ8‡²”®.
+\
+java:S18542":Remove this useless assignment to local variable "stream".(ÍÆ¬üÿÿÿÿ8§ÍÒ¬.
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ç‰§­.
+Z	java:S106m"9Replace this use of System.out or System.err by a logger.(¿´¼úÿÿÿÿ8ĞÀ®.
+U	java:S106q"9Replace this use of System.out or System.err by a logger.(›¯°é8ÂæÂ®.
+N
+java:S1612e",Replace this lambda with a method reference.(Ù¥ØÙÿÿÿÿÿ8ù€®.
+[	java:S106…"9Replace this use of System.out or System.err by a logger.(œ¨èÿÿÿÿÿ8¥Ëå®.
+M
+java:S14812"+Remove this unused "stream" local variable.(ÍÆ¬üÿÿÿÿ8§ÍÒ¬.
+I
+java:S14816",Remove this unused "stream1" local variable.(ğÔÇ‰8 ÁŞ¬.
+T
+java:S14818"2Remove this unused "integerStream" local variable.(®óÿ¿úÿÿÿÿ8’ªæ¬.
+Z	java:S106n"9Replace this use of System.out or System.err by a logger.(ƒ®ß­ıÿÿÿÿ8¼æÃ®.
+Z	java:S106P"9Replace this use of System.out or System.err by a logger.(ŠŸñ¿ùÿÿÿÿ8‘úª­.
+[	java:S106Œ"9Replace this use of System.out or System.err by a logger.(™ÂÕèøÿÿÿÿ8à¬ô®.
