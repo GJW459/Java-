@@ -20,53 +20,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fff359dd-d02b-4301-9ce5-fad54e63d5de" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/0/00a257c8912f97cf3f0d77b440dab8c95788a695" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/1/118bd79cc30aea48b74347c5a7999bf8529b45bc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2ea7a4b1386208fc7e729a4d4937042e15326466" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/0/308a24ef8c3bd0eb726387731ca85d46d1ee1fd6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/8/48b3d1080ba09fd73a072be76a2fb58c395e6eed" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/545d45b38d46dc6313ebaffa9ea9ead59b19e10e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/8/58c5b9f04b0a22434281e7577adf228b6951827f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/74249f3cca939fd2dff03cd13568575016776c35" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/754027b886e2cbfaee1905048303a5efd65a7c16" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8e9096bbceb593d5960da586a15d625565a3f340" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/1/9168fc1187026627d8b1a2915eca618f7680c646" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/5/9569d47fee9542aa0affbbf26f73dcc47f054fa7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/6/965f6aaf57a34fc3e6e0b3ba654b6414833b06d3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/2/a26ab071d160cb1ebb24a4cd5c66e298e0dad885" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/0/b0d3ec165ce6c577efb6843625ed16659320f226" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c83716a037144bdc1d38625a0e55eaf849ea741a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/ccd76fbc4d36a9b3f89220fa3b038ff1b6c1416a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/2/d2e04f544c91227b54dbb636c40738510ef7ac7d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/9/d910165bd40016a87e112e293d0acf211b02da12" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/9/d935056ac1736a74a9d57f9412ce7293f8d5c529" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f2b40c93c9935550e16147363620c3002a23f5ae" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/b/fb2adf7933848c97370a8840c4be9e32485e2125" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8ClassDate/src/com/gjw/TheSecondStudy/Java8DateStudy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8ClassDate/src/com/gjw/TheSecondStudy/OldDateStudy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/Boy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/Girl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/OptionalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHighSkills/src/com/gjw/study/one/JudgeRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHighSkills/src/com/gjw/study/one/NormalRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHighSkills/src/com/gjw/study/one/OrderAdminRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHighSkills/src/com/gjw/study/one/RoleContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHighSkills/src/com/gjw/study/one/RoleEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHighSkills/src/com/gjw/study/one/RoleFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHighSkills/src/com/gjw/study/one/RoleOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHighSkills/src/com/gjw/study/one/RootAdminRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java8ClassDate/src/com/gjw/TheThirdStudy/DateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/secondStudy/Java8Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCollection/src/com/gjw/collectionReview/ArrayListStudy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCollection/src/com/gjw/collectionReview/HashMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCollection/src/com/gjw/collectionReview/IteratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCollection/src/com/gjw/collectionReview/ListIteratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCollection/src/com/gjw/collectionReview/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCollection/src/com/gjw/collectionReview/PropertiesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaEnum/src/com/gjw/enumReview/EnumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaEnum/src/com/gjw/enumReview/Sex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaEnum/src/com/gjw/enumReview/info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaHighSkills/JavaHighSkills.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaHighSkills/src/com/gjw/Review/JudgeRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaHighSkills/src/com/gjw/Review/RoleEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaHighSkills/src/com/gjw/Review/RoleOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStreamAPI/JavaStreamAPI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStreamAPI/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStreamAPI/src/main/java/com/gjw/Dish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStreamAPI/src/main/java/com/gjw/StreamAPIStudy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStreamAPI/src/main/java/com/gjw/StreamAPITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStreamAPI/src/main/java/com/gjw/Type.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/84f0be69028b9ed045ee480ead44619385d22381" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/84f0be69028b9ed045ee480ead44619385d22381" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/abdfe8109174e4771c8939400fe169ddbb44cc75" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/abdfe8109174e4771c8939400fe169ddbb44cc75" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/d/addde1801571c27318933b0d5680a388b4df0aac" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/d/addde1801571c27318933b0d5680a388b4df0aac" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/8/b81bb1dca03079de2e5a360d4a428e5ea968e921" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/8/b81bb1dca03079de2e5a360d4a428e5ea968e921" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e2b48b172dc6f0d7e2932564a253c6fa22f2b241" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e2b48b172dc6f0d7e2932564a253c6fa22f2b241" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/LambdaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/LambdaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/StreamAPITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/StreamAPITest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java8NewFeature/com/gjw/java8/StreamAPITest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java8NewFeature/com/gjw/java8/StreamAPITest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/FunctionInterfaceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/FunctionInterfaceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaClassSystem/src/com/gjw/systemtest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaClassSystem/src/com/gjw/SystemTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCollection/JavaCollection.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCollection/JavaCollection.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHighSkills/src/com/gjw/study/one/JudgeRole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHighSkills/src/com/gjw/study/one/NormalRole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHighSkills/src/com/gjw/study/one/OrderAdminRole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHighSkills/src/com/gjw/study/one/RoleContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHighSkills/src/com/gjw/study/one/RoleEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHighSkills/src/com/gjw/study/one/RoleFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHighSkills/src/com/gjw/study/one/RoleOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHighSkills/src/com/gjw/study/one/RootAdminRole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaKeyClass/JavaKeyClass.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaKeyClass/JavaKeyClass.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaKeyClass/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaKeyClass/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaClassSystem/com/gjw/systemtest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaClassSystem/com/gjw/systemtest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,8 +75,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="AnnotationType" />
-        <option value="Enum" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -119,15 +117,18 @@
     <property name="MyBatisLogPluginparameters" value="Parameters:" />
     <property name="MyBatisLogPluginpreparing" value="Preparing:" />
     <property name="MyBatisLogPluginrunning" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="SearchEverywhereHistoryKey" value="Collections&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Collections.java&#10;Double&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Double.java&#10;InputStream&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/io/InputStream.java&#10;Arr&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Arrays.java&#10;Map&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Map.java&#10;Objects&#9;PSI&#9;JAVA://java.util.Objects&#10;Number&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Number.java&#10;Num&#9;PSI&#9;JAVA://com.gjw.javathread.Number&#10;HashMa&#9;PSI&#9;JAVA://java.util.HashMap&#10;List&#9;PSI&#9;JAVA://java.util.List&#10;String&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/String.java&#10;Proxy&#9;PSI&#9;JAVA://java.lang.reflect.Proxy&#10;InvocationHand&#9;PSI&#9;JAVA://java.lang.reflect.InvocationHandler&#10;ArrayLis&#9;PSI&#9;JAVA://java.util.ArrayList&#10;Arrays&#9;PSI&#9;JAVA://java.util.Arrays&#10;Date&#9;PSI&#9;JAVA://java.util.Date&#10;Syste&#9;PSI&#9;JAVA://java.lang.System&#10;StringBuilder&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/StringBuilder.java&#10;StringBuffer&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/StringBuffer.java&#10;S&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/String.java&#10;Reen&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock&#10;Thr&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Thread.java&#10;T&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Thread.java&#10;Thread&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Thread.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588581530393" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../rest-api" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -136,106 +137,115 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15429688" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\JavaHighLevel\JavaCollection" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\Desktop\JavaHighLevel\JavaIO" />
       <recent name="C:\Users\Administrator\Desktop\JavaHighLevel" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\Desktop\JavaHighLevel\JavaCollection" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.JudgeRole">
-    <configuration name="Java8DateStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gjw.TheSecondStudy.Java8DateStudy" />
-      <module name="Java8ClassDate" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.gjw.TheSecondStudy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JudgeRole" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gjw.study.one.JudgeRole" />
-      <module name="JavaHighSkills" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.gjw.study.one.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OldDateStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gjw.TheSecondStudy.OldDateStudy" />
-      <module name="Java8ClassDate" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.gjw.TheSecondStudy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OptionalTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.StreamAPIStudy.test1">
+    <configuration name="Java8Test2.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java8NewFeature" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gjw.java8.*" />
+          <option name="PATTERN" value="com.gjw.java8.secondStudy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.gjw.java8" />
-      <option name="MAIN_CLASS_NAME" value="com.gjw.java8.OptionalTest" />
+      <option name="PACKAGE_NAME" value="com.gjw.java8.secondStudy" />
+      <option name="MAIN_CLASS_NAME" value="com.gjw.java8.secondStudy.Java8Test2" />
       <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OptionalTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Java8Test2.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java8NewFeature" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gjw.java8.*" />
+          <option name="PATTERN" value="com.gjw.java8.secondStudy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.gjw.java8" />
-      <option name="MAIN_CLASS_NAME" value="com.gjw.java8.OptionalTest" />
-      <option name="METHOD_NAME" value="test3" />
+      <option name="PACKAGE_NAME" value="com.gjw.java8.secondStudy" />
+      <option name="MAIN_CLASS_NAME" value="com.gjw.java8.secondStudy.Java8Test2" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Java8Test2.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java8NewFeature" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gjw.java8.secondStudy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gjw.java8.secondStudy" />
+      <option name="MAIN_CLASS_NAME" value="com.gjw.java8.secondStudy.Java8Test2" />
+      <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Java8Test2.test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java8NewFeature" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gjw.java8.secondStudy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gjw.java8.secondStudy" />
+      <option name="MAIN_CLASS_NAME" value="com.gjw.java8.secondStudy.Java8Test2" />
+      <option name="METHOD_NAME" value="test6" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamAPIStudy.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaStreamAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gjw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gjw" />
+      <option name="MAIN_CLASS_NAME" value="com.gjw.StreamAPIStudy" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.OldDateStudy" />
-      <item itemvalue="Application.Java8DateStudy" />
-      <item itemvalue="Application.JudgeRole" />
-      <item itemvalue="JUnit.OptionalTest.test2" />
-      <item itemvalue="JUnit.OptionalTest.test3" />
+      <item itemvalue="JUnit.Java8Test2.test2" />
+      <item itemvalue="JUnit.Java8Test2.test4" />
+      <item itemvalue="JUnit.Java8Test2.test5" />
+      <item itemvalue="JUnit.Java8Test2.test6" />
+      <item itemvalue="JUnit.StreamAPIStudy.test1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JudgeRole" />
-        <item itemvalue="Application.Java8DateStudy" />
-        <item itemvalue="Application.OldDateStudy" />
-        <item itemvalue="JUnit.OptionalTest.test3" />
-        <item itemvalue="JUnit.OptionalTest.test2" />
+        <item itemvalue="JUnit.StreamAPIStudy.test1" />
+        <item itemvalue="JUnit.Java8Test2.test4" />
+        <item itemvalue="JUnit.Java8Test2.test6" />
+        <item itemvalue="JUnit.Java8Test2.test5" />
+        <item itemvalue="JUnit.Java8Test2.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -290,6 +300,21 @@
       <workItem from="1591335091418" duration="797000" />
       <workItem from="1591366879959" duration="3967000" />
       <workItem from="1591423632617" duration="1776000" />
+      <workItem from="1605096478747" duration="28000" />
+      <workItem from="1609211770859" duration="677000" />
+      <workItem from="1609302569394" duration="438000" />
+      <workItem from="1609309387376" duration="4769000" />
+      <workItem from="1609383216529" duration="2434000" />
+      <workItem from="1609550823594" duration="1071000" />
+      <workItem from="1609573625327" duration="8204000" />
+      <workItem from="1609639820659" duration="4287000" />
+      <workItem from="1609661985469" duration="4045000" />
+      <workItem from="1609726564241" duration="2392000" />
+      <workItem from="1609734949888" duration="91000" />
+      <workItem from="1617433780145" duration="4349000" />
+      <workItem from="1619147064322" duration="725000" />
+      <workItem from="1619659767309" duration="268000" />
+      <workItem from="1619660100370" duration="5221000" />
     </task>
     <task id="LOCAL-00001" summary="泛型和反射">
       <created>1586357046941</created>
@@ -307,38 +332,6 @@
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="StreamAPITest_test5 - 2020.05.03 at 09h 37m 14s.xml">
-      <configuration name="StreamAPITest.test5" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StreamAPITest_test5 - 2020.05.03 at 09h 52m 58s.xml">
-      <configuration name="StreamAPITest.test5" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StreamAPITest_test5 - 2020.05.03 at 09h 53m 41s.xml">
-      <configuration name="StreamAPITest.test5" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StreamAPITest_test6 - 2020.05.03 at 10h 00m 33s.xml">
-      <configuration name="StreamAPITest.test6" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StreamAPITest_test6 - 2020.05.03 at 10h 03m 58s.xml">
-      <configuration name="StreamAPITest.test6" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StreamAPITest_test7 - 2020.05.03 at 10h 09m 34s.xml">
-      <configuration name="StreamAPITest.test7" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OptionalTest_test1 - 2020.05.03 at 10h 41m 41s.xml">
-      <configuration name="OptionalTest.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OptionalTest_test2 - 2020.05.03 at 10h 47m 06s.xml">
-      <configuration name="OptionalTest.test2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OptionalTest_test3 - 2020.05.03 at 10h 52m 14s.xml">
-      <configuration name="OptionalTest.test3" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OptionalTest_test3 - 2020.05.03 at 10h 54m 21s.xml">
-      <configuration name="OptionalTest.test3" configurationId="JUnit" />
-    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -370,42 +363,38 @@
     <option name="LAST_COMMIT_MESSAGE" value="集合" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="89" key="#com.intellij.ide.util.MemberChooser" timestamp="1591333895203">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="967" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1619661311688">
+      <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="488" y="89" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1591333895203" />
-    <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1591334941710">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="967" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1549.831@0.0.1549.831" timestamp="1619661311688" />
+    <state x="534" y="171" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1619660389306">
+      <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1591334941710" />
-    <state width="1323" height="225" key="GridCell.Tab.0.bottom" timestamp="1591334736627">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="534" y="171" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1549.831@0.0.1549.831" timestamp="1619660389306" />
+    <state width="729" height="229" key="GridCell.Tab.0.bottom" timestamp="1619664645411">
+      <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1323" height="225" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1591334736627" />
-    <state width="1323" height="225" key="GridCell.Tab.0.center" timestamp="1591334736627">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="729" height="229" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1619664645411" />
+    <state width="729" height="229" key="GridCell.Tab.0.center" timestamp="1619664645411">
+      <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1323" height="225" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1591334736627" />
-    <state width="1323" height="225" key="GridCell.Tab.0.left" timestamp="1591334736627">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="729" height="229" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1619664645411" />
+    <state width="729" height="229" key="GridCell.Tab.0.left" timestamp="1619664645411">
+      <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1323" height="225" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1591334736627" />
-    <state width="1323" height="225" key="GridCell.Tab.0.right" timestamp="1591334736627">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="729" height="229" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1619664645411" />
+    <state width="729" height="229" key="GridCell.Tab.0.right" timestamp="1619664645411">
+      <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1323" height="225" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1591334736627" />
-    <state x="184" y="28" key="SettingsEditor" timestamp="1591331420624">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="729" height="229" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1619664645411" />
+    <state x="284" y="0" key="SettingsEditor" timestamp="1619660411806">
+      <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="184" y="28" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1591331420624" />
-    <state x="115" y="76" key="new project wizard" timestamp="1591332528280">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="284" y="0" key="SettingsEditor/0.0.1549.831@0.0.1549.831" timestamp="1619660411806" />
+    <state x="179" y="26" key="new project wizard" timestamp="1619660445494">
+      <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="115" y="76" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1591332528280" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1591332347505">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1591332347505" />
+    <state x="179" y="26" key="new project wizard/0.0.1549.831@0.0.1549.831" timestamp="1619660445494" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -422,11 +411,6 @@
           <url>file://$PROJECT_DIR$/JavaCollection/src/com/gjw/collection/UserCompratar.java</url>
           <line>19</line>
           <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/JavaCollection/src/com/gjw/CollectionStudy/ListIterator.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Java8NewFeature/src/com/gjw/java8/MethodReferencesTest.java</url>
@@ -453,91 +437,5 @@
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>Java8NewFeature</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: junit:junit:4.13</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

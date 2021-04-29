@@ -4,7 +4,7 @@ package com.gjw;
 import java.math.BigDecimal;
 import java.math.BigInteger;
 
-public class systemtest {
+public class SystemTest {
 
     public static void main(String[] args) {
         String javaVersion = System.getProperty("java.version");

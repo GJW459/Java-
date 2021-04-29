@@ -19,7 +19,7 @@ import java.util.function.Predicate;
  * }
  *
  * Java内置四大核心函数式接口
- * Consumer<T> 参数类型T 返回类型void 消防型接口 对类型为T的对象进行操作,包含方法:accept(T t)
+ * Consumer<T> 参数类型T 返回类型void 消费型接口 对类型为T的对象进行操作,包含方法:accept(T t)
  * Supplier<T> 参数类型无 返回类型T 供给型接口 返回类型为T的对象,包含方法T get()
  * Function<T,R> 参数类型T 返回类型R 函数型接口 对类型为T的进行操作,返回类型为R的对象 R apply(T t)
  * Predicate<T> 参数类型T 返回类型 boolean 断定型接口 确定类型为T的对象是否满足某种约束,并返回boolean值 boolean test(T t)

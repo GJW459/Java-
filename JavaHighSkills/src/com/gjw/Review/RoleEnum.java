@@ -1,23 +1,23 @@
-package com.gjw.study.one;
+package com.gjw.Review;
 
 public enum RoleEnum implements RoleOperation {
 
-    ROLE_ROOT_ADMIN{
+    ROOT_ADMIN_ROLE(){
         @Override
         public String op() {
-            return "AAA permission";
+            return "A op";
         }
     },
-    ROLE_ORDER_ADMIN{
+    ORDER_ADMIN_ROLE(){
         @Override
         public String op() {
-            return "BBB permission";
+            return "B op";
         }
     },
-    ROLE_NORMAL_ADMIN{
+    NORMAL_ADMIN_ROLE(){
         @Override
         public String op() {
-            return "CCC permission";
+            return "C op";
         }
     }
 }

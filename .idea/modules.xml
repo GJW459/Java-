@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/JavaKeyClass/JavaKeyClass.iml" filepath="$PROJECT_DIR$/JavaKeyClass/JavaKeyClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaReflect/JavaReflect.iml" filepath="$PROJECT_DIR$/JavaReflect/JavaReflect.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSocket/JavaSocket.iml" filepath="$PROJECT_DIR$/JavaSocket/JavaSocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaStreamAPI/JavaStreamAPI.iml" filepath="$PROJECT_DIR$/JavaStreamAPI/JavaStreamAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaThread/JavaThread.iml" filepath="$PROJECT_DIR$/JavaThread/JavaThread.iml" />
     </modules>
   </component>

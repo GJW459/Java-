@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/JavaKeyClass/pom.xml" />
         <option value="$PROJECT_DIR$/JavaSocket/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaStreamAPI/pom.xml" />
       </list>
     </option>
   </component>
